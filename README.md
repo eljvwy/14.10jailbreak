@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # PS5-JB-14.10 🎮
+=======
+# PS5-JB-14.10 
+NOTE!: I havent tested this and you can download it and text it for yourself. I'm not responsible for your PS5 if it would brick and its VIBECODED! So it might be mock or just wont work.
+>>>>>>> 3f9d18cdbd602c8615d7ecf460d8b79acc7789bb
 
 One-click PS5 jailbreak **host** for your Windows/macOS/Linux PC. It discovers your
 console on the LAN, serves the exploit page, validates and pushes payloads,
