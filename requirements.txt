@@ -1,0 +1,3 @@
+# PS5-JB-14.10 — stdlib first; the app runs with zero dependencies.
+# Everything below is optional and degrades gracefully if absent.
+pyftpdlib; platform_system == "Windows"  # optional local FTP fallback (ftpsrv normally used)

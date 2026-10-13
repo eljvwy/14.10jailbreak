@@ -1,0 +1,33 @@
+{
+  "_comment": "Provenance manifest for assets/payloads. Each entry documents where a binary genuinely came from. kind: 'upstream' (pinned upstream release download), 'compiled' (locally built with a recorded toolchain build log). Entries missing -> payload is REFUSED by the chain engine. Steam: never fabricate an entry for a binary you did not obtain.",
+  "kstuff.elf": {
+    "kind": "placeholder",
+    "source_url": "",
+    "revision": "",
+    "sha256": ""
+  },
+  "ShadowMountPlus.elf": {
+    "kind": "placeholder",
+    "source_url": "",
+    "revision": "",
+    "sha256": ""
+  },
+  "etaHEN.elf": {
+    "kind": "placeholder",
+    "source_url": "",
+    "revision": "",
+    "sha256": ""
+  },
+  "notify.elf": {
+    "kind": "placeholder",
+    "source_url": "",
+    "revision": "",
+    "sha256": ""
+  },
+  "ftpsrv.elf": {
+    "kind": "placeholder",
+    "source_url": "https://github.com/ps5-payload-dev/ftpsrv/releases (v0.21.1)",
+    "revision": "v0.21.1",
+    "sha256": ""
+  }
+}

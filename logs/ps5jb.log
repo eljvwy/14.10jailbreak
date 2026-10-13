@@ -1,0 +1,2222 @@
+2026-10-13 13:35:10 INFO    netsvc: wildcard DNS listening on UDP :53 -> 192.168.1.223
+2026-10-13 13:35:10 INFO    main: HTTP host: http://192.168.1.223:8080  (wildcard DNS -> 192.168.1.223)
+2026-10-13 13:35:10 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:8080, press RUN
+2026-10-13 13:35:27 INFO    netsvc: wildcard DNS listening on UDP :53 -> 192.168.1.223
+2026-10-13 13:35:27 INFO    main: HTTP host: http://192.168.1.223:8080  (wildcard DNS -> 192.168.1.223)
+2026-10-13 13:35:27 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:8080, press RUN
+2026-10-13 13:35:50 INFO    netsvc: wildcard DNS listening on UDP :53 -> 192.168.1.223
+2026-10-13 13:35:50 INFO    main: HTTP host: http://192.168.1.223:8080  (wildcard DNS -> 192.168.1.223)
+2026-10-13 13:35:50 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:8080, press RUN
+2026-10-13 13:36:06 INFO    netsvc: wildcard DNS listening on UDP :53 -> 192.168.1.223
+2026-10-13 13:36:06 INFO    main: HTTP host: http://192.168.1.223:8080  (wildcard DNS -> 192.168.1.223)
+2026-10-13 13:36:06 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:8080, press RUN
+2026-10-13 13:36:18 INFO    netsvc: wildcard DNS listening on UDP :53 -> 192.168.1.223
+2026-10-13 13:36:18 INFO    main: HTTP host: http://192.168.1.223:8080  (wildcard DNS -> 192.168.1.223)
+2026-10-13 13:36:18 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:8080, press RUN
+2026-10-13 13:36:44 INFO    netsvc: wildcard DNS listening on UDP :53 -> 192.168.1.223
+2026-10-13 13:36:44 INFO    main: HTTP host: http://192.168.1.223:8080  (wildcard DNS -> 192.168.1.223)
+2026-10-13 13:36:44 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:8080, press RUN
+2026-10-13 13:37:04 INFO    netsvc: wildcard DNS listening on UDP :53 -> 192.168.1.223
+2026-10-13 13:37:04 INFO    main: HTTP host: http://192.168.1.223:8085  (wildcard DNS -> 192.168.1.223)
+2026-10-13 13:37:04 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:8085, press RUN
+2026-10-13 13:56:24 ERROR   payloads: payload kstuff.elf REJECTED: missing_file
+2026-10-13 13:56:39 INFO    netsvc: wildcard DNS listening on UDP :53 -> 192.168.1.223
+2026-10-13 13:56:39 INFO    main: HTTP host: http://192.168.1.223:8080  (wildcard DNS -> 192.168.1.223)
+2026-10-13 13:56:39 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:8080, press RUN
+2026-10-13 13:56:59 INFO    netsvc: wildcard DNS listening on UDP :53 -> 192.168.1.223
+2026-10-13 13:56:59 INFO    main: HTTP host: http://192.168.1.223:8080  (wildcard DNS -> 192.168.1.223)
+2026-10-13 13:56:59 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:8080, press RUN
+2026-10-13 13:57:24 INFO    netsvc: wildcard DNS listening on UDP :53 -> 192.168.1.223
+2026-10-13 13:57:24 INFO    main: HTTP host: http://192.168.1.223:8085  (wildcard DNS -> 192.168.1.223)
+2026-10-13 13:57:24 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:8085, press RUN
+2026-10-13 14:25:06 ERROR   payloads: payload kstuff.elf REJECTED: missing_file
+2026-10-13 14:25:25 INFO    netsvc: wildcard DNS listening on UDP :53 -> 192.168.1.223
+2026-10-13 14:25:25 INFO    main: HTTP host: http://192.168.1.223:8080  (wildcard DNS -> 192.168.1.223)
+2026-10-13 14:25:25 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:8080, press RUN
+2026-10-13 14:26:46 WARNING main: HTTP port 8080 unavailable (in_use on loopback ([WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted) - change the port in config/settings.json); free it or change settings.json http.port - a common occupant on Windows is Steam's webhelper on 127.0.0.1:8080
+2026-10-13 14:26:46 INFO    netsvc: wildcard DNS listening on UDP :53 -> 192.168.1.223
+2026-10-13 14:26:46 INFO    main: HTTP host: http://192.168.1.223:8080  (wildcard DNS -> 192.168.1.223)
+2026-10-13 14:26:46 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:8080, press RUN
+2026-10-13 14:28:39 WARNING main: HTTP port 8080 unavailable (in_use on loopback ([WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted) - change the port in config/settings.json); free it or change settings.json http.port - a common occupant on Windows is Steam's webhelper on 127.0.0.1:8080
+2026-10-13 14:28:39 INFO    netsvc: wildcard DNS listening on UDP :53 -> 192.168.1.223
+2026-10-13 14:28:39 INFO    main: HTTP host: http://192.168.1.223:8080  (wildcard DNS -> 192.168.1.223)
+2026-10-13 14:28:39 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:8080, press RUN
+2026-10-13 14:45:39 INFO    netsvc: wildcard DNS listening on UDP :63367 -> 192.168.1.223
+2026-10-13 14:45:39 INFO    main: HTTP host: http://192.168.1.223:59589  (wildcard DNS -> 192.168.1.223)
+2026-10-13 14:45:39 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:59589, press RUN
+2026-10-13 14:45:39 INFO    main: shutting down…
+2026-10-13 14:45:40 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 14:45:40 INFO    main: shutdown complete
+2026-10-13 14:45:40 WARNING main: HTTP port 8080 unavailable (in_use on loopback ([WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted) - change the port in config/settings.json); free it or change settings.json http.port - a common occupant on Windows is Steam's webhelper on 127.0.0.1:8080
+2026-10-13 14:45:40 INFO    netsvc: wildcard DNS listening on UDP :63003 -> 192.168.1.223
+2026-10-13 14:45:40 INFO    main: HTTP host: http://192.168.1.223:8080  (wildcard DNS -> 192.168.1.223)
+2026-10-13 14:45:40 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:8080, press RUN
+2026-10-13 14:45:40 INFO    chains: state -> IDLE 
+2026-10-13 14:45:40 INFO    chains: state -> FAILED:unsupported_firmware no profile matched the console firmware
+2026-10-13 14:45:40 INFO    chains: state -> IDLE 
+2026-10-13 14:45:40 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 14:45:40 INFO    chains: state -> HOSTING 
+2026-10-13 14:45:40 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 14:45:40 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 14:45:40 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 14:45:40 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 14:45:40 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 14:45:40 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 14:45:40 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 14:45:40 INFO    chains: state -> IDLE 
+2026-10-13 14:45:40 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 14:45:40 INFO    chains: state -> HOSTING 
+2026-10-13 14:45:40 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 14:45:40 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 14:45:40 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 14:45:40 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 14:45:40 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 14:45:40 INFO    chains: state -> FAILED:payload_rejected a.elf not validated
+2026-10-13 14:45:40 INFO    chains: state -> IDLE 
+2026-10-13 14:45:40 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 14:45:40 INFO    chains: state -> HOSTING 
+2026-10-13 14:45:40 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 14:45:40 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 14:45:40 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 14:45:40 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 14:45:40 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 14:45:40 INFO    chains: payload a.elf delivered (attempt 1)
+2026-10-13 14:45:40 INFO    chains: payload b.elf delivered (attempt 1)
+2026-10-13 14:45:40 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 14:45:40 INFO    chains: state -> FAILED:unverified_execution payloads delivered but no console-side confirmation
+2026-10-13 14:45:40 INFO    chains: state -> IDLE 
+2026-10-13 14:45:40 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 14:45:40 INFO    chains: state -> HOSTING 
+2026-10-13 14:45:40 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 14:45:40 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 14:45:40 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 14:45:40 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 14:45:40 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 14:45:40 INFO    chains: payload a.elf delivered (attempt 1)
+2026-10-13 14:45:40 INFO    chains: payload b.elf delivered (attempt 1)
+2026-10-13 14:45:40 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 14:45:40 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 14:45:40 INFO    chains: state -> IDLE 
+2026-10-13 14:45:40 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 14:45:40 INFO    chains: state -> FAILED:payload_rejected payload a.elf rejected: no_provenance_record
+2026-10-13 14:45:40 INFO    chains: state -> IDLE 
+2026-10-13 14:45:40 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 14:45:40 INFO    chains: state -> FAILED:missing_assets payload a.elf rejected: missing_file
+2026-10-13 14:45:40 INFO    chains: state -> IDLE 
+2026-10-13 14:45:40 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 14:45:40 INFO    chains: state -> HOSTING 
+2026-10-13 14:45:40 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 14:45:40 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 14:45:40 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 14:45:40 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 14:45:40 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 14:45:40 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 14:45:40 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 14:45:40 INFO    chains: state -> IDLE 
+2026-10-13 14:45:40 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 14:45:40 INFO    chains: state -> HOSTING 
+2026-10-13 14:45:40 INFO    chains: state -> FAILED:cancelled userland attempt 1
+2026-10-13 14:45:40 INFO    chains: state -> IDLE 
+2026-10-13 14:45:40 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 14:45:40 INFO    chains: state -> HOSTING 
+2026-10-13 14:45:40 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 14:45:40 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 14:45:40 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 14:45:40 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 14:45:40 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 14:45:40 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 14:45:40 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 14:45:40 WARNING chains: run() called while already running - duplicate suppressed
+2026-10-13 14:45:41 INFO    discovery: PS5 discovered at 192.168.1.9 (ports 9020/9021 live: (True, False))
+2026-10-13 14:45:41 INFO    discovery: PS5 address changed 192.168.1.9 -> 192.168.1.12, reconnecting
+2026-10-13 14:45:41 INFO    injector: injected 16 raw bytes to 127.0.0.1:59592
+2026-10-13 14:45:41 INFO    injector: injected URI file:/data/kstuff.elf to 127.0.0.1:59594
+2026-10-13 14:45:41 INFO    injector: injected URI http://192.168.1.23:8080/payloads/kstuff.elf to 127.0.0.1:59596
+2026-10-13 14:45:47 INFO    discovery: PS5 discovered at 127.0.0.1 (ports 9020/9021 live: (True, True))
+2026-10-13 14:45:49 INFO    discovery: PS5 address changed 127.0.0.1 -> 127.0.0.2, reconnecting
+2026-10-13 14:45:49 INFO    chains: state -> IDLE 
+2026-10-13 14:45:49 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 14:45:49 INFO    chains: state -> HOSTING 
+2026-10-13 14:45:49 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 14:45:49 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 14:45:49 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 14:45:49 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 14:45:49 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 14:45:49 INFO    injector: injected 516 raw bytes to 127.0.0.1:59619
+2026-10-13 14:45:49 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 14:45:49 INFO    injector: injected 516 raw bytes to 127.0.0.1:59619
+2026-10-13 14:45:49 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 14:45:49 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 14:45:49 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 14:45:49 INFO    chains: state -> IDLE 
+2026-10-13 14:45:49 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 14:45:49 INFO    chains: state -> HOSTING 
+2026-10-13 14:45:49 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 14:45:49 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 14:45:49 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 14:45:49 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 14:45:49 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 14:45:49 INFO    injector: injected 516 raw bytes to 127.0.0.1:59631
+2026-10-13 14:45:49 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 14:45:49 INFO    injector: injected 516 raw bytes to 127.0.0.1:59631
+2026-10-13 14:45:49 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 14:45:49 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 14:45:51 INFO    chains: state -> FAILED:unverified_execution payloads delivered but no console-side confirmation
+2026-10-13 14:45:51 INFO    chains: state -> IDLE 
+2026-10-13 14:45:51 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 14:45:51 INFO    chains: state -> HOSTING 
+2026-10-13 14:45:51 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 14:45:51 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 14:45:51 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 14:45:51 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 14:45:51 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 14:45:51 WARNING chains: payload t1.elf attempt 1 failed: connection_reset
+2026-10-13 14:45:53 WARNING chains: payload t1.elf attempt 2 failed: connection_reset
+2026-10-13 14:45:56 WARNING chains: payload t1.elf attempt 3 failed: connection_reset
+2026-10-13 14:45:56 ERROR   chains: payload chain PARTIAL — failing item: t1.elf
+2026-10-13 14:45:56 INFO    chains: state -> FAILED:payload_rejected t1.elf delivery failed after 3 attempts
+2026-10-13 14:45:56 INFO    chains: state -> IDLE 
+2026-10-13 14:45:56 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 14:45:56 INFO    chains: state -> HOSTING 
+2026-10-13 14:45:56 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 14:45:56 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 14:45:56 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 14:45:56 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 14:45:56 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 14:45:56 WARNING chains: payload t1.elf attempt 1 failed: connection_reset
+2026-10-13 14:45:57 WARNING chains: payload t1.elf attempt 2 failed: connection_reset
+2026-10-13 14:46:00 WARNING chains: payload t1.elf attempt 3 failed: connection_reset
+2026-10-13 14:46:00 ERROR   chains: payload chain PARTIAL — failing item: t1.elf
+2026-10-13 14:46:00 INFO    chains: state -> FAILED:payload_rejected t1.elf delivery failed after 3 attempts
+2026-10-13 14:46:00 INFO    chains: state -> IDLE 
+2026-10-13 14:46:00 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 14:46:00 INFO    chains: state -> HOSTING 
+2026-10-13 14:46:00 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 14:46:00 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 14:46:00 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 14:46:00 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 14:46:00 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 14:46:00 INFO    injector: injected 516 raw bytes to 127.0.0.1:59683
+2026-10-13 14:46:00 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 14:46:00 INFO    injector: injected 516 raw bytes to 127.0.0.1:59683
+2026-10-13 14:46:00 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 14:46:00 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 14:46:00 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 14:46:00 INFO    chains: state -> IDLE 
+2026-10-13 14:46:00 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 14:46:00 INFO    chains: state -> HOSTING 
+2026-10-13 14:46:00 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 14:46:00 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 14:46:04 INFO    chains: state -> FAILED:cancelled userland stage cancelled
+2026-10-13 14:46:04 INFO    chains: state -> IDLE 
+2026-10-13 14:46:04 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 14:46:04 INFO    chains: state -> HOSTING 
+2026-10-13 14:46:04 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 14:46:04 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 14:46:05 WARNING chains: run() called while already running - duplicate suppressed
+2026-10-13 14:46:07 INFO    chains: state -> FAILED:cancelled userland stage cancelled
+2026-10-13 14:46:07 INFO    netsvc: wildcard DNS listening on UDP :0 -> 127.0.0.1
+2026-10-13 14:46:07 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 14:46:08 INFO    netsvc: wildcard DNS listening on UDP :0 -> 127.0.0.1
+2026-10-13 14:46:09 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 14:46:09 ERROR   payloads: payload bad.elf REJECTED: unverified_placeholder
+2026-10-13 14:46:59 ERROR   payloads: payload kstuff.elf REJECTED: missing_file
+2026-10-13 14:49:22 INFO    netsvc: wildcard DNS listening on UDP :60208 -> 192.168.1.223
+2026-10-13 14:49:22 INFO    main: HTTP host: http://192.168.1.223:55688  (wildcard DNS -> 192.168.1.223)
+2026-10-13 14:49:22 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:55688, press RUN
+2026-10-13 14:49:22 INFO    main: shutting down…
+2026-10-13 14:49:22 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 14:49:22 INFO    main: shutdown complete
+2026-10-13 14:49:22 WARNING main: HTTP port 8080 unavailable (in_use on loopback ([WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted) - change the port in config/settings.json); free it or change settings.json http.port - a common occupant on Windows is Steam's webhelper on 127.0.0.1:8080
+2026-10-13 14:49:22 INFO    netsvc: wildcard DNS listening on UDP :54234 -> 192.168.1.223
+2026-10-13 14:49:22 INFO    main: HTTP host: http://192.168.1.223:8080  (wildcard DNS -> 192.168.1.223)
+2026-10-13 14:49:22 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:8080, press RUN
+2026-10-13 14:49:22 INFO    chains: state -> IDLE 
+2026-10-13 14:49:22 INFO    chains: state -> FAILED:unsupported_firmware no profile matched the console firmware
+2026-10-13 14:49:22 INFO    chains: state -> IDLE 
+2026-10-13 14:49:22 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 14:49:22 INFO    chains: state -> HOSTING 
+2026-10-13 14:49:22 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 14:49:22 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 14:49:22 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 14:49:22 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 14:49:22 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 14:49:22 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 14:49:23 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 14:49:23 INFO    chains: state -> IDLE 
+2026-10-13 14:49:23 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 14:49:23 INFO    chains: state -> HOSTING 
+2026-10-13 14:49:23 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 14:49:23 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 14:49:23 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 14:49:23 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 14:49:23 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 14:49:23 INFO    chains: state -> FAILED:payload_rejected a.elf not validated
+2026-10-13 14:49:23 INFO    chains: state -> IDLE 
+2026-10-13 14:49:23 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 14:49:23 INFO    chains: state -> HOSTING 
+2026-10-13 14:49:23 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 14:49:23 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 14:49:23 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 14:49:23 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 14:49:23 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 14:49:23 INFO    chains: payload a.elf delivered (attempt 1)
+2026-10-13 14:49:23 INFO    chains: payload b.elf delivered (attempt 1)
+2026-10-13 14:49:23 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 14:49:23 INFO    chains: state -> FAILED:unverified_execution payloads delivered but no console-side confirmation
+2026-10-13 14:49:23 INFO    chains: state -> IDLE 
+2026-10-13 14:49:23 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 14:49:23 INFO    chains: state -> HOSTING 
+2026-10-13 14:49:23 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 14:49:23 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 14:49:23 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 14:49:23 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 14:49:23 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 14:49:23 INFO    chains: payload a.elf delivered (attempt 1)
+2026-10-13 14:49:23 INFO    chains: payload b.elf delivered (attempt 1)
+2026-10-13 14:49:23 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 14:49:23 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 14:49:23 INFO    chains: state -> IDLE 
+2026-10-13 14:49:23 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 14:49:23 INFO    chains: state -> FAILED:payload_rejected payload a.elf rejected: no_provenance_record
+2026-10-13 14:49:23 INFO    chains: state -> IDLE 
+2026-10-13 14:49:23 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 14:49:23 INFO    chains: state -> FAILED:missing_assets payload a.elf rejected: missing_file
+2026-10-13 14:49:23 INFO    chains: state -> IDLE 
+2026-10-13 14:49:23 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 14:49:23 INFO    chains: state -> HOSTING 
+2026-10-13 14:49:23 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 14:49:23 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 14:49:23 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 14:49:23 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 14:49:23 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 14:49:23 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 14:49:23 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 14:49:23 INFO    chains: state -> IDLE 
+2026-10-13 14:49:23 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 14:49:23 INFO    chains: state -> HOSTING 
+2026-10-13 14:49:23 INFO    chains: state -> FAILED:cancelled userland attempt 1
+2026-10-13 14:49:23 INFO    chains: state -> IDLE 
+2026-10-13 14:49:23 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 14:49:23 INFO    chains: state -> HOSTING 
+2026-10-13 14:49:23 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 14:49:23 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 14:49:23 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 14:49:23 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 14:49:23 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 14:49:23 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 14:49:23 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 14:49:23 WARNING chains: run() called while already running - duplicate suppressed
+2026-10-13 14:49:24 INFO    discovery: PS5 discovered at 192.168.1.9 (ports 9020/9021 live: (True, False))
+2026-10-13 14:49:24 INFO    discovery: PS5 address changed 192.168.1.9 -> 192.168.1.12, reconnecting
+2026-10-13 14:49:24 INFO    injector: injected 16 raw bytes to 127.0.0.1:55692
+2026-10-13 14:49:24 INFO    injector: injected URI file:/data/kstuff.elf to 127.0.0.1:55694
+2026-10-13 14:49:24 INFO    injector: injected URI http://192.168.1.23:8080/payloads/kstuff.elf to 127.0.0.1:55696
+2026-10-13 14:49:30 INFO    discovery: PS5 discovered at 127.0.0.1 (ports 9020/9021 live: (True, True))
+2026-10-13 14:49:32 INFO    discovery: PS5 address changed 127.0.0.1 -> 127.0.0.2, reconnecting
+2026-10-13 14:49:32 INFO    chains: state -> IDLE 
+2026-10-13 14:49:32 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 14:49:32 INFO    chains: state -> HOSTING 
+2026-10-13 14:49:32 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 14:49:32 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 14:49:32 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 14:49:32 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 14:49:32 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 14:49:32 INFO    injector: injected 516 raw bytes to 127.0.0.1:55720
+2026-10-13 14:49:32 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 14:49:32 INFO    injector: injected 516 raw bytes to 127.0.0.1:55720
+2026-10-13 14:49:32 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 14:49:32 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 14:49:32 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 14:49:32 INFO    chains: state -> IDLE 
+2026-10-13 14:49:32 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 14:49:32 INFO    chains: state -> HOSTING 
+2026-10-13 14:49:32 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 14:49:32 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 14:49:32 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 14:49:32 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 14:49:32 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 14:49:32 INFO    injector: injected 516 raw bytes to 127.0.0.1:55732
+2026-10-13 14:49:32 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 14:49:32 INFO    injector: injected 516 raw bytes to 127.0.0.1:55732
+2026-10-13 14:49:32 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 14:49:32 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 14:49:34 INFO    chains: state -> FAILED:unverified_execution payloads delivered but no console-side confirmation
+2026-10-13 14:49:34 INFO    chains: state -> IDLE 
+2026-10-13 14:49:34 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 14:49:34 INFO    chains: state -> HOSTING 
+2026-10-13 14:49:34 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 14:49:34 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 14:49:34 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 14:49:34 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 14:49:34 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 14:49:34 WARNING chains: payload t1.elf attempt 1 failed: connection_reset
+2026-10-13 14:49:35 WARNING chains: payload t1.elf attempt 2 failed: connection_reset
+2026-10-13 14:49:38 WARNING chains: payload t1.elf attempt 3 failed: connection_reset
+2026-10-13 14:49:38 ERROR   chains: payload chain PARTIAL — failing item: t1.elf
+2026-10-13 14:49:38 INFO    chains: state -> FAILED:payload_rejected t1.elf delivery failed after 3 attempts
+2026-10-13 14:49:38 INFO    chains: state -> IDLE 
+2026-10-13 14:49:38 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 14:49:38 INFO    chains: state -> HOSTING 
+2026-10-13 14:49:38 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 14:49:38 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 14:49:38 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 14:49:38 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 14:49:38 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 14:49:38 WARNING chains: payload t1.elf attempt 1 failed: connection_reset
+2026-10-13 14:49:40 WARNING chains: payload t1.elf attempt 2 failed: connection_reset
+2026-10-13 14:49:43 WARNING chains: payload t1.elf attempt 3 failed: connection_reset
+2026-10-13 14:49:43 ERROR   chains: payload chain PARTIAL — failing item: t1.elf
+2026-10-13 14:49:43 INFO    chains: state -> FAILED:payload_rejected t1.elf delivery failed after 3 attempts
+2026-10-13 14:49:43 INFO    chains: state -> IDLE 
+2026-10-13 14:49:43 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 14:49:43 INFO    chains: state -> HOSTING 
+2026-10-13 14:49:43 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 14:49:43 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 14:49:43 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 14:49:43 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 14:49:43 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 14:49:43 INFO    injector: injected 516 raw bytes to 127.0.0.1:55797
+2026-10-13 14:49:43 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 14:49:43 INFO    injector: injected 516 raw bytes to 127.0.0.1:55797
+2026-10-13 14:49:43 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 14:49:43 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 14:49:43 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 14:49:43 INFO    chains: state -> IDLE 
+2026-10-13 14:49:43 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 14:49:43 INFO    chains: state -> HOSTING 
+2026-10-13 14:49:43 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 14:49:43 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 14:49:46 INFO    chains: state -> FAILED:cancelled userland stage cancelled
+2026-10-13 14:49:46 INFO    chains: state -> IDLE 
+2026-10-13 14:49:46 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 14:49:46 INFO    chains: state -> HOSTING 
+2026-10-13 14:49:46 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 14:49:46 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 14:49:47 WARNING chains: run() called while already running - duplicate suppressed
+2026-10-13 14:49:49 INFO    chains: state -> FAILED:cancelled userland stage cancelled
+2026-10-13 14:49:49 INFO    netsvc: wildcard DNS listening on UDP :0 -> 127.0.0.1
+2026-10-13 14:49:50 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 14:49:51 INFO    netsvc: wildcard DNS listening on UDP :0 -> 127.0.0.1
+2026-10-13 14:49:51 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 14:49:51 ERROR   payloads: payload bad.elf REJECTED: unverified_placeholder
+2026-10-13 14:49:52 ERROR   payloads: payload kstuff.elf REJECTED: missing_file
+2026-10-13 15:09:19 INFO    netsvc: wildcard DNS listening on UDP :61897 -> 192.168.1.223
+2026-10-13 15:09:19 INFO    main: HTTP host: http://192.168.1.223:56645  (wildcard DNS -> 192.168.1.223)
+2026-10-13 15:09:19 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:56645, press RUN
+2026-10-13 15:09:19 INFO    main: shutting down…
+2026-10-13 15:09:19 INFO    main: shutdown complete
+2026-10-13 15:09:19 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 15:09:19 WARNING main: HTTP port 8080 unavailable (in_use on loopback ([WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted) - change the port in config/settings.json); free it or change settings.json http.port - a common occupant on Windows is Steam's webhelper on 127.0.0.1:8080
+2026-10-13 15:09:19 INFO    netsvc: wildcard DNS listening on UDP :61190 -> 192.168.1.223
+2026-10-13 15:09:19 INFO    main: HTTP host: http://192.168.1.223:8080  (wildcard DNS -> 192.168.1.223)
+2026-10-13 15:09:19 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:8080, press RUN
+2026-10-13 15:09:19 INFO    chains: state -> IDLE 
+2026-10-13 15:09:19 INFO    chains: state -> FAILED:unsupported_firmware no profile matched the console firmware
+2026-10-13 15:09:19 INFO    chains: state -> IDLE 
+2026-10-13 15:09:19 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 15:09:19 INFO    chains: state -> HOSTING 
+2026-10-13 15:09:19 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 15:09:19 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:09:19 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 15:09:20 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 15:09:20 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 15:09:20 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 15:09:20 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 15:09:20 INFO    chains: state -> IDLE 
+2026-10-13 15:09:20 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 15:09:20 INFO    chains: state -> HOSTING 
+2026-10-13 15:09:20 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 15:09:20 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:09:20 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 15:09:20 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 15:09:20 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 15:09:20 INFO    chains: state -> FAILED:payload_rejected a.elf not validated
+2026-10-13 15:09:20 INFO    chains: state -> IDLE 
+2026-10-13 15:09:20 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 15:09:20 INFO    chains: state -> HOSTING 
+2026-10-13 15:09:20 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 15:09:20 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:09:20 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 15:09:20 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 15:09:20 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 15:09:20 INFO    chains: payload a.elf delivered (attempt 1)
+2026-10-13 15:09:20 INFO    chains: payload b.elf delivered (attempt 1)
+2026-10-13 15:09:20 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 15:09:20 INFO    chains: state -> FAILED:unverified_execution payloads delivered but no console-side confirmation
+2026-10-13 15:09:20 INFO    chains: state -> IDLE 
+2026-10-13 15:09:20 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 15:09:20 INFO    chains: state -> HOSTING 
+2026-10-13 15:09:20 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 15:09:20 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:09:20 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 15:09:20 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 15:09:20 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 15:09:20 INFO    chains: payload a.elf delivered (attempt 1)
+2026-10-13 15:09:20 INFO    chains: payload b.elf delivered (attempt 1)
+2026-10-13 15:09:20 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 15:09:20 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 15:09:20 INFO    chains: state -> IDLE 
+2026-10-13 15:09:20 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 15:09:20 INFO    chains: state -> FAILED:payload_rejected payload a.elf rejected: no_provenance_record
+2026-10-13 15:09:20 INFO    chains: state -> IDLE 
+2026-10-13 15:09:20 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 15:09:20 INFO    chains: state -> FAILED:missing_assets payload a.elf rejected: missing_file
+2026-10-13 15:09:20 INFO    chains: state -> IDLE 
+2026-10-13 15:09:20 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 15:09:20 INFO    chains: state -> HOSTING 
+2026-10-13 15:09:20 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 15:09:20 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:09:20 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 15:09:20 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 15:09:20 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 15:09:20 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 15:09:20 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 15:09:20 INFO    chains: state -> IDLE 
+2026-10-13 15:09:20 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 15:09:20 INFO    chains: state -> HOSTING 
+2026-10-13 15:09:20 INFO    chains: state -> FAILED:cancelled userland attempt 1
+2026-10-13 15:09:20 INFO    chains: state -> IDLE 
+2026-10-13 15:09:20 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 15:09:20 INFO    chains: state -> HOSTING 
+2026-10-13 15:09:20 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 15:09:20 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:09:20 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 15:09:20 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 15:09:20 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 15:09:20 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 15:09:20 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 15:09:20 WARNING chains: run() called while already running - duplicate suppressed
+2026-10-13 15:09:21 INFO    discovery: PS5 discovered at 192.168.1.9 (ports 9020/9021 live: (True, False))
+2026-10-13 15:09:21 INFO    discovery: PS5 address changed 192.168.1.9 -> 192.168.1.12, reconnecting
+2026-10-13 15:09:21 INFO    injector: injected 16 raw bytes to 127.0.0.1:56648
+2026-10-13 15:09:21 INFO    injector: injected URI file:/data/kstuff.elf to 127.0.0.1:56650
+2026-10-13 15:09:21 INFO    injector: injected URI http://192.168.1.23:8080/payloads/kstuff.elf to 127.0.0.1:56652
+2026-10-13 15:09:27 INFO    discovery: PS5 discovered at 127.0.0.1 (ports 9020/9021 live: (True, True))
+2026-10-13 15:09:29 INFO    discovery: PS5 address changed 127.0.0.1 -> 127.0.0.2, reconnecting
+2026-10-13 15:09:29 INFO    chains: state -> IDLE 
+2026-10-13 15:09:29 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 15:09:29 INFO    chains: state -> HOSTING 
+2026-10-13 15:09:29 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 15:09:29 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:09:29 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 15:09:29 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 15:09:29 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 15:09:29 INFO    injector: injected 580 raw bytes to 127.0.0.1:56685
+2026-10-13 15:09:29 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 15:09:29 INFO    injector: injected 580 raw bytes to 127.0.0.1:56685
+2026-10-13 15:09:29 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 15:09:29 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 15:09:29 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 15:09:29 INFO    chains: state -> IDLE 
+2026-10-13 15:09:29 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 15:09:29 INFO    chains: state -> HOSTING 
+2026-10-13 15:09:29 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 15:09:29 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:09:29 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 15:09:29 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 15:09:29 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 15:09:29 INFO    injector: injected 580 raw bytes to 127.0.0.1:56697
+2026-10-13 15:09:29 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 15:09:29 INFO    injector: injected 580 raw bytes to 127.0.0.1:56697
+2026-10-13 15:09:29 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 15:09:29 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 15:09:31 INFO    chains: state -> FAILED:unverified_execution payloads delivered but no console-side confirmation
+2026-10-13 15:09:31 INFO    chains: state -> IDLE 
+2026-10-13 15:09:31 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 15:09:31 INFO    chains: state -> HOSTING 
+2026-10-13 15:09:31 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 15:09:31 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:09:31 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 15:09:31 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 15:09:31 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 15:09:31 WARNING chains: payload t1.elf attempt 1 failed: connection_reset
+2026-10-13 15:09:33 WARNING chains: payload t1.elf attempt 2 failed: connection_reset
+2026-10-13 15:09:36 WARNING chains: payload t1.elf attempt 3 failed: connection_reset
+2026-10-13 15:09:36 ERROR   chains: payload chain PARTIAL — failing item: t1.elf
+2026-10-13 15:09:36 INFO    chains: state -> FAILED:payload_rejected t1.elf delivery failed after 3 attempts
+2026-10-13 15:09:36 INFO    chains: state -> IDLE 
+2026-10-13 15:09:36 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 15:09:36 INFO    chains: state -> HOSTING 
+2026-10-13 15:09:36 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 15:09:36 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:09:36 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 15:09:36 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 15:09:36 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 15:09:36 WARNING chains: payload t1.elf attempt 1 failed: connection_reset
+2026-10-13 15:09:37 WARNING chains: payload t1.elf attempt 2 failed: connection_reset
+2026-10-13 15:09:40 WARNING chains: payload t1.elf attempt 3 failed: connection_reset
+2026-10-13 15:09:40 ERROR   chains: payload chain PARTIAL — failing item: t1.elf
+2026-10-13 15:09:40 INFO    chains: state -> FAILED:payload_rejected t1.elf delivery failed after 3 attempts
+2026-10-13 15:09:41 INFO    chains: state -> IDLE 
+2026-10-13 15:09:41 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 15:09:41 INFO    chains: state -> HOSTING 
+2026-10-13 15:09:41 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 15:09:41 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:09:41 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 15:09:41 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 15:09:41 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 15:09:41 INFO    injector: injected 580 raw bytes to 127.0.0.1:56750
+2026-10-13 15:09:41 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 15:09:41 INFO    injector: injected 580 raw bytes to 127.0.0.1:56750
+2026-10-13 15:09:41 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 15:09:41 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 15:09:41 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 15:09:41 INFO    chains: state -> IDLE 
+2026-10-13 15:09:41 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 15:09:41 INFO    chains: state -> HOSTING 
+2026-10-13 15:09:41 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 15:09:41 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:09:44 INFO    chains: state -> FAILED:cancelled userland stage cancelled
+2026-10-13 15:09:44 INFO    chains: state -> IDLE 
+2026-10-13 15:09:44 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 15:09:44 INFO    chains: state -> HOSTING 
+2026-10-13 15:09:44 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 15:09:44 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:09:45 WARNING chains: run() called while already running - duplicate suppressed
+2026-10-13 15:09:47 INFO    chains: state -> FAILED:cancelled userland stage cancelled
+2026-10-13 15:09:47 INFO    netsvc: wildcard DNS listening on UDP :0 -> 127.0.0.1
+2026-10-13 15:09:47 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 15:09:49 INFO    netsvc: wildcard DNS listening on UDP :0 -> 127.0.0.1
+2026-10-13 15:09:49 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 15:09:49 ERROR   payloads: payload bad.elf REJECTED: unverified_placeholder
+2026-10-13 15:11:49 INFO    netsvc: wildcard DNS listening on UDP :50545 -> 192.168.1.223
+2026-10-13 15:11:49 INFO    main: HTTP host: http://192.168.1.223:56828  (wildcard DNS -> 192.168.1.223)
+2026-10-13 15:11:49 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:56828, press RUN
+2026-10-13 15:11:49 INFO    main: shutting down…
+2026-10-13 15:11:50 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 15:11:50 INFO    main: shutdown complete
+2026-10-13 15:11:50 WARNING main: HTTP port 8080 unavailable (in_use on loopback ([WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted) - change the port in config/settings.json); free it or change settings.json http.port - a common occupant on Windows is Steam's webhelper on 127.0.0.1:8080
+2026-10-13 15:11:50 INFO    netsvc: wildcard DNS listening on UDP :57794 -> 192.168.1.223
+2026-10-13 15:11:50 INFO    main: HTTP host: http://192.168.1.223:8080  (wildcard DNS -> 192.168.1.223)
+2026-10-13 15:11:50 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:8080, press RUN
+2026-10-13 15:11:50 INFO    chains: state -> IDLE 
+2026-10-13 15:11:50 INFO    chains: state -> FAILED:unsupported_firmware no profile matched the console firmware
+2026-10-13 15:11:50 INFO    chains: state -> IDLE 
+2026-10-13 15:11:50 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 15:11:50 INFO    chains: state -> HOSTING 
+2026-10-13 15:11:50 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 15:11:50 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:11:50 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 15:11:50 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 15:11:50 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 15:11:50 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 15:11:50 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 15:11:50 INFO    chains: state -> IDLE 
+2026-10-13 15:11:50 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 15:11:50 INFO    chains: state -> HOSTING 
+2026-10-13 15:11:50 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 15:11:50 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:11:50 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 15:11:50 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 15:11:50 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 15:11:50 INFO    chains: state -> FAILED:payload_rejected a.elf not validated
+2026-10-13 15:11:50 INFO    chains: state -> IDLE 
+2026-10-13 15:11:50 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 15:11:50 INFO    chains: state -> HOSTING 
+2026-10-13 15:11:50 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 15:11:50 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:11:50 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 15:11:50 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 15:11:50 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 15:11:50 INFO    chains: payload a.elf delivered (attempt 1)
+2026-10-13 15:11:50 INFO    chains: payload b.elf delivered (attempt 1)
+2026-10-13 15:11:50 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 15:11:50 INFO    chains: state -> FAILED:unverified_execution payloads delivered but no console-side confirmation
+2026-10-13 15:11:50 INFO    chains: state -> IDLE 
+2026-10-13 15:11:50 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 15:11:50 INFO    chains: state -> HOSTING 
+2026-10-13 15:11:50 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 15:11:50 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:11:50 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 15:11:50 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 15:11:50 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 15:11:50 INFO    chains: payload a.elf delivered (attempt 1)
+2026-10-13 15:11:50 INFO    chains: payload b.elf delivered (attempt 1)
+2026-10-13 15:11:50 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 15:11:50 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 15:11:50 INFO    chains: state -> IDLE 
+2026-10-13 15:11:50 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 15:11:50 INFO    chains: state -> FAILED:payload_rejected payload a.elf rejected: no_provenance_record
+2026-10-13 15:11:50 INFO    chains: state -> IDLE 
+2026-10-13 15:11:50 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 15:11:50 INFO    chains: state -> FAILED:missing_assets payload a.elf rejected: missing_file
+2026-10-13 15:11:50 INFO    chains: state -> IDLE 
+2026-10-13 15:11:50 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 15:11:50 INFO    chains: state -> HOSTING 
+2026-10-13 15:11:50 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 15:11:50 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:11:50 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 15:11:50 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 15:11:50 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 15:11:50 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 15:11:50 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 15:11:50 INFO    chains: state -> IDLE 
+2026-10-13 15:11:50 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 15:11:50 INFO    chains: state -> HOSTING 
+2026-10-13 15:11:50 INFO    chains: state -> FAILED:cancelled userland attempt 1
+2026-10-13 15:11:50 INFO    chains: state -> IDLE 
+2026-10-13 15:11:50 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 15:11:50 INFO    chains: state -> HOSTING 
+2026-10-13 15:11:50 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 15:11:50 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:11:50 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 15:11:50 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 15:11:50 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 15:11:50 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 15:11:51 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 15:11:51 WARNING chains: run() called while already running - duplicate suppressed
+2026-10-13 15:11:51 INFO    discovery: PS5 discovered at 192.168.1.9 (ports 9020/9021 live: (True, False))
+2026-10-13 15:11:51 INFO    discovery: PS5 address changed 192.168.1.9 -> 192.168.1.12, reconnecting
+2026-10-13 15:11:51 INFO    injector: injected 16 raw bytes to 127.0.0.1:56831
+2026-10-13 15:11:51 INFO    injector: injected URI file:/data/kstuff.elf to 127.0.0.1:56833
+2026-10-13 15:11:51 INFO    injector: injected URI http://192.168.1.23:8080/payloads/kstuff.elf to 127.0.0.1:56835
+2026-10-13 15:11:58 INFO    discovery: PS5 discovered at 127.0.0.1 (ports 9020/9021 live: (True, True))
+2026-10-13 15:11:59 INFO    discovery: PS5 address changed 127.0.0.1 -> 127.0.0.2, reconnecting
+2026-10-13 15:11:59 INFO    chains: state -> IDLE 
+2026-10-13 15:11:59 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 15:11:59 INFO    chains: state -> HOSTING 
+2026-10-13 15:11:59 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 15:11:59 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:11:59 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 15:11:59 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 15:11:59 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 15:11:59 INFO    injector: injected 580 raw bytes to 127.0.0.1:56859
+2026-10-13 15:11:59 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 15:11:59 INFO    injector: injected 580 raw bytes to 127.0.0.1:56859
+2026-10-13 15:11:59 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 15:11:59 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 15:11:59 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 15:11:59 INFO    chains: state -> IDLE 
+2026-10-13 15:11:59 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 15:11:59 INFO    chains: state -> HOSTING 
+2026-10-13 15:11:59 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 15:11:59 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:11:59 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 15:11:59 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 15:11:59 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 15:11:59 INFO    injector: injected 580 raw bytes to 127.0.0.1:56871
+2026-10-13 15:11:59 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 15:11:59 INFO    injector: injected 580 raw bytes to 127.0.0.1:56871
+2026-10-13 15:11:59 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 15:11:59 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 15:12:01 INFO    chains: state -> FAILED:unverified_execution payloads delivered but no console-side confirmation
+2026-10-13 15:12:01 INFO    chains: state -> IDLE 
+2026-10-13 15:12:01 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 15:12:01 INFO    chains: state -> HOSTING 
+2026-10-13 15:12:01 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 15:12:01 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:12:01 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 15:12:01 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 15:12:01 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 15:12:01 WARNING chains: payload t1.elf attempt 1 failed: connection_reset
+2026-10-13 15:12:03 WARNING chains: payload t1.elf attempt 2 failed: connection_reset
+2026-10-13 15:12:06 WARNING chains: payload t1.elf attempt 3 failed: connection_reset
+2026-10-13 15:12:06 ERROR   chains: payload chain PARTIAL — failing item: t1.elf
+2026-10-13 15:12:06 INFO    chains: state -> FAILED:payload_rejected t1.elf delivery failed after 3 attempts
+2026-10-13 15:12:06 INFO    chains: state -> IDLE 
+2026-10-13 15:12:06 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 15:12:06 INFO    chains: state -> HOSTING 
+2026-10-13 15:12:06 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 15:12:06 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:12:06 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 15:12:06 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 15:12:06 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 15:12:06 WARNING chains: payload t1.elf attempt 1 failed: connection_reset
+2026-10-13 15:12:08 WARNING chains: payload t1.elf attempt 2 failed: connection_reset
+2026-10-13 15:12:11 WARNING chains: payload t1.elf attempt 3 failed: connection_reset
+2026-10-13 15:12:11 ERROR   chains: payload chain PARTIAL — failing item: t1.elf
+2026-10-13 15:12:11 INFO    chains: state -> FAILED:payload_rejected t1.elf delivery failed after 3 attempts
+2026-10-13 15:12:11 INFO    chains: state -> IDLE 
+2026-10-13 15:12:11 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 15:12:11 INFO    chains: state -> HOSTING 
+2026-10-13 15:12:11 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 15:12:11 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:12:11 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 15:12:11 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 15:12:11 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 15:12:11 INFO    injector: injected 580 raw bytes to 127.0.0.1:53952
+2026-10-13 15:12:11 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 15:12:11 INFO    injector: injected 580 raw bytes to 127.0.0.1:53952
+2026-10-13 15:12:11 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 15:12:11 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 15:12:11 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 15:12:11 INFO    chains: state -> IDLE 
+2026-10-13 15:12:11 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 15:12:11 INFO    chains: state -> HOSTING 
+2026-10-13 15:12:11 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 15:12:11 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:12:14 INFO    chains: state -> FAILED:cancelled userland stage cancelled
+2026-10-13 15:12:14 INFO    chains: state -> IDLE 
+2026-10-13 15:12:14 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 15:12:14 INFO    chains: state -> HOSTING 
+2026-10-13 15:12:14 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 15:12:14 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:12:15 WARNING chains: run() called while already running - duplicate suppressed
+2026-10-13 15:12:17 INFO    chains: state -> FAILED:cancelled userland stage cancelled
+2026-10-13 15:12:17 INFO    netsvc: wildcard DNS listening on UDP :0 -> 127.0.0.1
+2026-10-13 15:12:17 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 15:12:19 INFO    netsvc: wildcard DNS listening on UDP :0 -> 127.0.0.1
+2026-10-13 15:12:19 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 15:12:19 ERROR   payloads: payload bad.elf REJECTED: unverified_placeholder
+2026-10-13 15:21:54 INFO    netsvc: wildcard DNS listening on UDP :54509 -> 192.168.1.223
+2026-10-13 15:21:54 INFO    main: HTTP host: http://192.168.1.223:63506  (wildcard DNS -> 192.168.1.223)
+2026-10-13 15:21:54 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:63506, press RUN
+2026-10-13 15:21:54 INFO    main: shutting down…
+2026-10-13 15:21:55 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 15:21:55 INFO    main: shutdown complete
+2026-10-13 15:21:55 WARNING main: HTTP port 8080 unavailable (in_use on loopback ([WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted) - change the port in config/settings.json); free it or change settings.json http.port - a common occupant on Windows is Steam's webhelper on 127.0.0.1:8080
+2026-10-13 15:21:55 INFO    netsvc: wildcard DNS listening on UDP :54548 -> 192.168.1.223
+2026-10-13 15:21:55 INFO    main: HTTP host: http://192.168.1.223:8080  (wildcard DNS -> 192.168.1.223)
+2026-10-13 15:21:55 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:8080, press RUN
+2026-10-13 15:21:55 INFO    chains: state -> IDLE 
+2026-10-13 15:21:55 INFO    chains: state -> FAILED:unsupported_firmware no profile matched the console firmware
+2026-10-13 15:21:55 INFO    chains: state -> IDLE 
+2026-10-13 15:21:55 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 15:21:55 INFO    chains: state -> HOSTING 
+2026-10-13 15:21:55 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 15:21:55 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:21:55 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 15:21:55 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 15:21:55 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 15:21:55 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 15:21:55 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 15:21:55 INFO    chains: state -> IDLE 
+2026-10-13 15:21:55 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 15:21:55 INFO    chains: state -> HOSTING 
+2026-10-13 15:21:55 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 15:21:55 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:21:55 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 15:21:55 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 15:21:55 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 15:21:55 INFO    chains: state -> FAILED:payload_rejected a.elf not validated
+2026-10-13 15:21:55 INFO    chains: state -> IDLE 
+2026-10-13 15:21:55 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 15:21:55 INFO    chains: state -> HOSTING 
+2026-10-13 15:21:55 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 15:21:55 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:21:55 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 15:21:55 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 15:21:55 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 15:21:55 INFO    chains: payload a.elf delivered (attempt 1)
+2026-10-13 15:21:55 INFO    chains: payload b.elf delivered (attempt 1)
+2026-10-13 15:21:55 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 15:21:55 INFO    chains: state -> FAILED:unverified_execution payloads delivered but no console-side confirmation
+2026-10-13 15:21:55 INFO    chains: state -> IDLE 
+2026-10-13 15:21:55 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 15:21:55 INFO    chains: state -> HOSTING 
+2026-10-13 15:21:55 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 15:21:55 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:21:55 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 15:21:55 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 15:21:55 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 15:21:55 INFO    chains: payload a.elf delivered (attempt 1)
+2026-10-13 15:21:55 INFO    chains: payload b.elf delivered (attempt 1)
+2026-10-13 15:21:55 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 15:21:55 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 15:21:55 INFO    chains: state -> IDLE 
+2026-10-13 15:21:55 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 15:21:55 INFO    chains: state -> FAILED:payload_rejected payload a.elf rejected: no_provenance_record
+2026-10-13 15:21:55 INFO    chains: state -> IDLE 
+2026-10-13 15:21:55 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 15:21:55 INFO    chains: state -> FAILED:missing_assets payload a.elf rejected: missing_file
+2026-10-13 15:21:55 INFO    chains: state -> IDLE 
+2026-10-13 15:21:55 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 15:21:55 INFO    chains: state -> HOSTING 
+2026-10-13 15:21:55 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 15:21:55 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:21:55 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 15:21:55 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 15:21:55 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 15:21:55 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 15:21:55 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 15:21:55 INFO    chains: state -> IDLE 
+2026-10-13 15:21:55 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 15:21:55 INFO    chains: state -> HOSTING 
+2026-10-13 15:21:55 INFO    chains: state -> FAILED:cancelled userland attempt 1
+2026-10-13 15:21:55 INFO    chains: state -> IDLE 
+2026-10-13 15:21:55 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 15:21:55 INFO    chains: state -> HOSTING 
+2026-10-13 15:21:55 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 15:21:55 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:21:55 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 15:21:55 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 15:21:55 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 15:21:55 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 15:21:55 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 15:21:55 WARNING chains: run() called while already running - duplicate suppressed
+2026-10-13 15:21:56 INFO    discovery: PS5 discovered at 192.168.1.9 (ports 9020/9021 live: (True, False))
+2026-10-13 15:21:56 INFO    discovery: PS5 address changed 192.168.1.9 -> 192.168.1.12, reconnecting
+2026-10-13 15:21:56 INFO    injector: injected 16 raw bytes to 127.0.0.1:65516
+2026-10-13 15:21:56 INFO    injector: injected URI file:/data/kstuff.elf to 127.0.0.1:65518
+2026-10-13 15:21:56 INFO    injector: injected URI http://192.168.1.23:8080/payloads/kstuff.elf to 127.0.0.1:65520
+2026-10-13 15:22:02 INFO    discovery: PS5 discovered at 127.0.0.1 (ports 9020/9021 live: (True, True))
+2026-10-13 15:22:04 INFO    discovery: PS5 address changed 127.0.0.1 -> 127.0.0.2, reconnecting
+2026-10-13 15:22:04 INFO    chains: state -> IDLE 
+2026-10-13 15:22:04 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 15:22:04 INFO    chains: state -> HOSTING 
+2026-10-13 15:22:04 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 15:22:04 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:22:04 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 15:22:04 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 15:22:04 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 15:22:04 INFO    injector: injected 580 raw bytes to 127.0.0.1:49168
+2026-10-13 15:22:04 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 15:22:04 INFO    injector: injected 580 raw bytes to 127.0.0.1:49168
+2026-10-13 15:22:04 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 15:22:04 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 15:22:04 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 15:22:04 INFO    chains: state -> IDLE 
+2026-10-13 15:22:04 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 15:22:04 INFO    chains: state -> HOSTING 
+2026-10-13 15:22:04 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 15:22:04 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:22:04 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 15:22:04 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 15:22:04 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 15:22:04 INFO    injector: injected 580 raw bytes to 127.0.0.1:49180
+2026-10-13 15:22:04 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 15:22:04 INFO    injector: injected 580 raw bytes to 127.0.0.1:49180
+2026-10-13 15:22:04 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 15:22:04 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 15:22:06 INFO    chains: state -> FAILED:unverified_execution payloads delivered but no console-side confirmation
+2026-10-13 15:22:06 INFO    chains: state -> IDLE 
+2026-10-13 15:22:06 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 15:22:06 INFO    chains: state -> HOSTING 
+2026-10-13 15:22:06 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 15:22:06 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:22:06 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 15:22:06 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 15:22:06 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 15:22:06 WARNING chains: payload t1.elf attempt 1 failed: connection_reset
+2026-10-13 15:22:08 WARNING chains: payload t1.elf attempt 2 failed: connection_reset
+2026-10-13 15:22:11 WARNING chains: payload t1.elf attempt 3 failed: connection_reset
+2026-10-13 15:22:11 ERROR   chains: payload chain PARTIAL — failing item: t1.elf
+2026-10-13 15:22:11 INFO    chains: state -> FAILED:payload_rejected t1.elf delivery failed after 3 attempts
+2026-10-13 15:22:11 INFO    chains: state -> IDLE 
+2026-10-13 15:22:11 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 15:22:11 INFO    chains: state -> HOSTING 
+2026-10-13 15:22:11 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 15:22:11 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:22:11 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 15:22:11 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 15:22:11 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 15:22:11 WARNING chains: payload t1.elf attempt 1 failed: connection_reset
+2026-10-13 15:22:12 WARNING chains: payload t1.elf attempt 2 failed: connection_reset
+2026-10-13 15:22:15 WARNING chains: payload t1.elf attempt 3 failed: connection_reset
+2026-10-13 15:22:15 ERROR   chains: payload chain PARTIAL — failing item: t1.elf
+2026-10-13 15:22:15 INFO    chains: state -> FAILED:payload_rejected t1.elf delivery failed after 3 attempts
+2026-10-13 15:22:15 INFO    chains: state -> IDLE 
+2026-10-13 15:22:15 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 15:22:15 INFO    chains: state -> HOSTING 
+2026-10-13 15:22:15 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 15:22:15 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:22:15 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 15:22:15 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 15:22:15 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 15:22:15 INFO    injector: injected 580 raw bytes to 127.0.0.1:53680
+2026-10-13 15:22:15 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 15:22:15 INFO    injector: injected 580 raw bytes to 127.0.0.1:53680
+2026-10-13 15:22:15 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 15:22:15 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 15:22:15 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 15:22:16 INFO    chains: state -> IDLE 
+2026-10-13 15:22:16 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 15:22:16 INFO    chains: state -> HOSTING 
+2026-10-13 15:22:16 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 15:22:16 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:22:19 INFO    chains: state -> FAILED:cancelled userland stage cancelled
+2026-10-13 15:22:19 INFO    chains: state -> IDLE 
+2026-10-13 15:22:19 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 15:22:19 INFO    chains: state -> HOSTING 
+2026-10-13 15:22:19 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 15:22:19 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 15:22:20 WARNING chains: run() called while already running - duplicate suppressed
+2026-10-13 15:22:22 INFO    chains: state -> FAILED:cancelled userland stage cancelled
+2026-10-13 15:22:22 INFO    netsvc: wildcard DNS listening on UDP :0 -> 127.0.0.1
+2026-10-13 15:22:22 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 15:22:23 INFO    netsvc: wildcard DNS listening on UDP :0 -> 127.0.0.1
+2026-10-13 15:22:24 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 15:22:24 ERROR   payloads: payload bad.elf REJECTED: unverified_placeholder
+2026-10-13 15:22:24 ERROR   payloads: payload kstuff.elf REJECTED: missing_file
+2026-10-13 19:47:34 INFO    netsvc: wildcard DNS listening on UDP :52082 -> 192.168.1.223
+2026-10-13 19:47:34 INFO    main: HTTP host: http://192.168.1.223:53028  (wildcard DNS -> 192.168.1.223)
+2026-10-13 19:47:34 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:53028, press RUN
+2026-10-13 19:47:34 INFO    main: shutting down…
+2026-10-13 19:47:35 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 19:47:35 INFO    main: shutdown complete
+2026-10-13 19:47:35 WARNING main: HTTP port 8080 unavailable (in_use on loopback ([WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted) - change the port in config/settings.json); free it or change settings.json http.port - a common occupant on Windows is Steam's webhelper on 127.0.0.1:8080
+2026-10-13 19:47:35 INFO    netsvc: wildcard DNS listening on UDP :52084 -> 192.168.1.223
+2026-10-13 19:47:35 INFO    main: HTTP host: http://192.168.1.223:8080  (wildcard DNS -> 192.168.1.223)
+2026-10-13 19:47:35 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:8080, press RUN
+2026-10-13 19:47:35 INFO    chains: state -> IDLE 
+2026-10-13 19:47:35 INFO    chains: state -> FAILED:unsupported_firmware no profile matched the console firmware
+2026-10-13 19:47:35 INFO    chains: state -> IDLE 
+2026-10-13 19:47:35 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:47:35 INFO    chains: state -> HOSTING 
+2026-10-13 19:47:35 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:47:35 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:47:35 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 19:47:35 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:47:35 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 19:47:35 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 19:47:35 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 19:47:35 INFO    chains: state -> IDLE 
+2026-10-13 19:47:35 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:47:35 INFO    chains: state -> HOSTING 
+2026-10-13 19:47:35 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:47:35 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:47:35 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:47:35 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 19:47:35 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 19:47:35 INFO    chains: state -> FAILED:payload_rejected a.elf not validated
+2026-10-13 19:47:35 INFO    chains: state -> IDLE 
+2026-10-13 19:47:35 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:47:35 INFO    chains: state -> HOSTING 
+2026-10-13 19:47:35 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:47:35 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:47:35 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:47:35 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 19:47:35 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 19:47:35 INFO    chains: payload a.elf delivered (attempt 1)
+2026-10-13 19:47:35 INFO    chains: payload b.elf delivered (attempt 1)
+2026-10-13 19:47:35 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:47:35 INFO    chains: state -> FAILED:unverified_execution payloads delivered but no console-side confirmation
+2026-10-13 19:47:35 INFO    chains: state -> IDLE 
+2026-10-13 19:47:35 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:47:35 INFO    chains: state -> HOSTING 
+2026-10-13 19:47:35 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:47:35 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:47:35 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:47:35 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 19:47:35 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 19:47:35 INFO    chains: payload a.elf delivered (attempt 1)
+2026-10-13 19:47:35 INFO    chains: payload b.elf delivered (attempt 1)
+2026-10-13 19:47:35 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:47:35 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 19:47:35 INFO    chains: state -> IDLE 
+2026-10-13 19:47:35 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:47:35 INFO    chains: state -> FAILED:payload_rejected payload a.elf rejected: no_provenance_record
+2026-10-13 19:47:35 INFO    chains: state -> IDLE 
+2026-10-13 19:47:35 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:47:35 INFO    chains: state -> FAILED:missing_assets payload a.elf rejected: missing_file
+2026-10-13 19:47:35 INFO    chains: state -> IDLE 
+2026-10-13 19:47:35 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:47:35 INFO    chains: state -> HOSTING 
+2026-10-13 19:47:35 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:47:35 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:47:35 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 19:47:35 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:47:35 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 19:47:35 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 19:47:35 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 19:47:35 INFO    chains: state -> IDLE 
+2026-10-13 19:47:35 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:47:35 INFO    chains: state -> HOSTING 
+2026-10-13 19:47:35 INFO    chains: state -> FAILED:cancelled userland attempt 1
+2026-10-13 19:47:35 INFO    chains: state -> IDLE 
+2026-10-13 19:47:35 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:47:35 INFO    chains: state -> HOSTING 
+2026-10-13 19:47:35 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:47:35 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:47:35 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 19:47:35 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:47:35 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 19:47:35 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 19:47:36 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 19:47:36 WARNING chains: run() called while already running - duplicate suppressed
+2026-10-13 19:47:36 INFO    discovery: PS5 discovered at 192.168.1.9 (ports 9020/9021 live: (True, False))
+2026-10-13 19:47:36 INFO    discovery: PS5 address changed 192.168.1.9 -> 192.168.1.12, reconnecting
+2026-10-13 19:47:36 INFO    injector: injected 16 raw bytes to 127.0.0.1:53038
+2026-10-13 19:47:36 INFO    injector: injected URI file:/data/kstuff.elf to 127.0.0.1:53040
+2026-10-13 19:47:36 INFO    injector: injected URI http://192.168.1.23:8080/payloads/kstuff.elf to 127.0.0.1:53042
+2026-10-13 19:47:43 INFO    discovery: PS5 discovered at 127.0.0.1 (ports 9020/9021 live: (True, True))
+2026-10-13 19:47:44 INFO    discovery: PS5 address changed 127.0.0.1 -> 127.0.0.2, reconnecting
+2026-10-13 19:47:44 INFO    chains: state -> IDLE 
+2026-10-13 19:47:44 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:47:44 INFO    chains: state -> HOSTING 
+2026-10-13 19:47:44 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:47:44 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:47:44 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:47:44 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:47:44 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:47:44 INFO    injector: injected 580 raw bytes to 127.0.0.1:57456
+2026-10-13 19:47:44 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 19:47:44 INFO    injector: injected 580 raw bytes to 127.0.0.1:57456
+2026-10-13 19:47:44 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 19:47:44 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:47:44 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 19:47:44 INFO    chains: state -> IDLE 
+2026-10-13 19:47:44 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:47:44 INFO    chains: state -> HOSTING 
+2026-10-13 19:47:44 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:47:44 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:47:44 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:47:44 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:47:44 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:47:44 INFO    injector: injected 580 raw bytes to 127.0.0.1:57468
+2026-10-13 19:47:44 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 19:47:44 INFO    injector: injected 580 raw bytes to 127.0.0.1:57468
+2026-10-13 19:47:44 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 19:47:44 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:47:46 INFO    chains: state -> FAILED:unverified_execution payloads delivered but no console-side confirmation
+2026-10-13 19:47:46 INFO    chains: state -> IDLE 
+2026-10-13 19:47:46 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:47:46 INFO    chains: state -> HOSTING 
+2026-10-13 19:47:46 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:47:46 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:47:46 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:47:46 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:47:46 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:47:46 WARNING chains: payload t1.elf attempt 1 failed: connection_reset
+2026-10-13 19:47:48 WARNING chains: payload t1.elf attempt 2 failed: connection_reset
+2026-10-13 19:47:51 WARNING chains: payload t1.elf attempt 3 failed: connection_reset
+2026-10-13 19:47:51 ERROR   chains: payload chain PARTIAL — failing item: t1.elf
+2026-10-13 19:47:51 INFO    chains: state -> FAILED:payload_rejected t1.elf delivery failed after 3 attempts
+2026-10-13 19:47:51 INFO    chains: state -> IDLE 
+2026-10-13 19:47:51 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:47:51 INFO    chains: state -> HOSTING 
+2026-10-13 19:47:51 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:47:51 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:47:51 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:47:51 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:47:51 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:47:51 WARNING chains: payload t1.elf attempt 1 failed: connection_reset
+2026-10-13 19:47:52 WARNING chains: payload t1.elf attempt 2 failed: connection_reset
+2026-10-13 19:47:55 WARNING chains: payload t1.elf attempt 3 failed: connection_reset
+2026-10-13 19:47:55 ERROR   chains: payload chain PARTIAL — failing item: t1.elf
+2026-10-13 19:47:55 INFO    chains: state -> FAILED:payload_rejected t1.elf delivery failed after 3 attempts
+2026-10-13 19:47:56 INFO    chains: state -> IDLE 
+2026-10-13 19:47:56 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:47:56 INFO    chains: state -> HOSTING 
+2026-10-13 19:47:56 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:47:56 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:47:56 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:47:56 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:47:56 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:47:56 INFO    injector: injected 580 raw bytes to 127.0.0.1:63815
+2026-10-13 19:47:56 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 19:47:56 INFO    injector: injected 580 raw bytes to 127.0.0.1:63815
+2026-10-13 19:47:56 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 19:47:56 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:47:56 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 19:47:56 INFO    chains: state -> IDLE 
+2026-10-13 19:47:56 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:47:56 INFO    chains: state -> HOSTING 
+2026-10-13 19:47:56 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:47:56 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:47:59 INFO    chains: state -> FAILED:cancelled userland stage cancelled
+2026-10-13 19:47:59 INFO    chains: state -> IDLE 
+2026-10-13 19:47:59 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:47:59 INFO    chains: state -> HOSTING 
+2026-10-13 19:47:59 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:47:59 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:48:00 WARNING chains: run() called while already running - duplicate suppressed
+2026-10-13 19:48:02 INFO    chains: state -> FAILED:cancelled userland stage cancelled
+2026-10-13 19:48:02 INFO    netsvc: wildcard DNS listening on UDP :0 -> 127.0.0.1
+2026-10-13 19:48:02 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 19:48:04 INFO    netsvc: wildcard DNS listening on UDP :0 -> 127.0.0.1
+2026-10-13 19:48:04 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 19:48:04 ERROR   payloads: payload bad.elf REJECTED: unverified_placeholder
+2026-10-13 19:49:13 INFO    netsvc: wildcard DNS listening on UDP :50924 -> 192.168.1.223
+2026-10-13 19:49:13 INFO    main: HTTP host: http://192.168.1.223:64186  (wildcard DNS -> 192.168.1.223)
+2026-10-13 19:49:13 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:64186, press RUN
+2026-10-13 19:49:13 INFO    main: shutting down…
+2026-10-13 19:49:14 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 19:49:14 INFO    main: shutdown complete
+2026-10-13 19:49:14 WARNING main: HTTP port 8080 unavailable (in_use on loopback ([WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted) - change the port in config/settings.json); free it or change settings.json http.port - a common occupant on Windows is Steam's webhelper on 127.0.0.1:8080
+2026-10-13 19:49:14 INFO    netsvc: wildcard DNS listening on UDP :50926 -> 192.168.1.223
+2026-10-13 19:49:14 INFO    main: HTTP host: http://192.168.1.223:8080  (wildcard DNS -> 192.168.1.223)
+2026-10-13 19:49:14 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:8080, press RUN
+2026-10-13 19:49:14 INFO    chains: state -> IDLE 
+2026-10-13 19:49:14 INFO    chains: state -> FAILED:unsupported_firmware no profile matched the console firmware
+2026-10-13 19:49:14 INFO    chains: state -> IDLE 
+2026-10-13 19:49:14 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:49:14 INFO    chains: state -> HOSTING 
+2026-10-13 19:49:14 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:49:14 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:49:14 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 19:49:14 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:49:14 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 19:49:14 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 19:49:14 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 19:49:14 INFO    chains: state -> IDLE 
+2026-10-13 19:49:14 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:49:14 INFO    chains: state -> HOSTING 
+2026-10-13 19:49:14 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:49:14 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:49:14 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:49:14 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 19:49:14 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 19:49:14 INFO    chains: state -> FAILED:payload_rejected a.elf not validated
+2026-10-13 19:49:14 INFO    chains: state -> IDLE 
+2026-10-13 19:49:14 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:49:14 INFO    chains: state -> HOSTING 
+2026-10-13 19:49:14 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:49:14 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:49:14 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:49:14 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 19:49:14 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 19:49:14 INFO    chains: payload a.elf delivered (attempt 1)
+2026-10-13 19:49:14 INFO    chains: payload b.elf delivered (attempt 1)
+2026-10-13 19:49:14 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:49:14 INFO    chains: state -> FAILED:unverified_execution payloads delivered but no console-side confirmation
+2026-10-13 19:49:14 INFO    chains: state -> IDLE 
+2026-10-13 19:49:14 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:49:14 INFO    chains: state -> HOSTING 
+2026-10-13 19:49:14 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:49:14 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:49:14 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:49:14 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 19:49:14 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 19:49:14 INFO    chains: payload a.elf delivered (attempt 1)
+2026-10-13 19:49:14 INFO    chains: payload b.elf delivered (attempt 1)
+2026-10-13 19:49:14 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:49:14 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 19:49:14 INFO    chains: state -> IDLE 
+2026-10-13 19:49:14 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:49:14 INFO    chains: state -> FAILED:payload_rejected payload a.elf rejected: no_provenance_record
+2026-10-13 19:49:14 INFO    chains: state -> IDLE 
+2026-10-13 19:49:14 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:49:14 INFO    chains: state -> FAILED:missing_assets payload a.elf rejected: missing_file
+2026-10-13 19:49:14 INFO    chains: state -> IDLE 
+2026-10-13 19:49:14 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:49:14 INFO    chains: state -> HOSTING 
+2026-10-13 19:49:14 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:49:14 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:49:14 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 19:49:14 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:49:14 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 19:49:14 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 19:49:14 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 19:49:14 INFO    chains: state -> IDLE 
+2026-10-13 19:49:14 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:49:14 INFO    chains: state -> HOSTING 
+2026-10-13 19:49:14 INFO    chains: state -> FAILED:cancelled userland attempt 1
+2026-10-13 19:49:14 INFO    chains: state -> IDLE 
+2026-10-13 19:49:14 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:49:14 INFO    chains: state -> HOSTING 
+2026-10-13 19:49:14 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:49:14 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:49:14 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 19:49:14 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:49:14 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 19:49:14 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 19:49:15 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 19:49:15 WARNING chains: run() called while already running - duplicate suppressed
+2026-10-13 19:49:15 INFO    discovery: PS5 discovered at 192.168.1.9 (ports 9020/9021 live: (True, False))
+2026-10-13 19:49:15 INFO    discovery: PS5 address changed 192.168.1.9 -> 192.168.1.12, reconnecting
+2026-10-13 19:49:15 INFO    injector: injected 16 raw bytes to 127.0.0.1:64210
+2026-10-13 19:49:15 INFO    injector: injected URI file:/data/kstuff.elf to 127.0.0.1:64214
+2026-10-13 19:49:15 INFO    injector: injected URI http://192.168.1.23:8080/payloads/kstuff.elf to 127.0.0.1:64217
+2026-10-13 19:49:22 INFO    discovery: PS5 discovered at 127.0.0.1 (ports 9020/9021 live: (True, True))
+2026-10-13 19:49:23 INFO    discovery: PS5 address changed 127.0.0.1 -> 127.0.0.2, reconnecting
+2026-10-13 19:49:23 INFO    chains: state -> IDLE 
+2026-10-13 19:49:23 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:49:23 INFO    chains: state -> HOSTING 
+2026-10-13 19:49:23 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:49:23 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:49:23 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:49:23 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:49:23 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:49:23 INFO    injector: injected 580 raw bytes to 127.0.0.1:64242
+2026-10-13 19:49:23 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 19:49:23 INFO    injector: injected 580 raw bytes to 127.0.0.1:64242
+2026-10-13 19:49:23 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 19:49:23 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:49:23 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 19:49:23 INFO    chains: state -> IDLE 
+2026-10-13 19:49:23 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:49:23 INFO    chains: state -> HOSTING 
+2026-10-13 19:49:23 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:49:23 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:49:23 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:49:23 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:49:23 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:49:23 INFO    injector: injected 580 raw bytes to 127.0.0.1:64254
+2026-10-13 19:49:23 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 19:49:23 INFO    injector: injected 580 raw bytes to 127.0.0.1:64254
+2026-10-13 19:49:23 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 19:49:23 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:49:25 INFO    chains: state -> FAILED:unverified_execution payloads delivered but no console-side confirmation
+2026-10-13 19:49:25 INFO    chains: state -> IDLE 
+2026-10-13 19:49:25 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:49:25 INFO    chains: state -> HOSTING 
+2026-10-13 19:49:25 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:49:25 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:49:25 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:49:25 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:49:25 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:49:25 WARNING chains: payload t1.elf attempt 1 failed: connection_reset
+2026-10-13 19:49:27 WARNING chains: payload t1.elf attempt 2 failed: connection_reset
+2026-10-13 19:49:30 WARNING chains: payload t1.elf attempt 3 failed: connection_reset
+2026-10-13 19:49:30 ERROR   chains: payload chain PARTIAL — failing item: t1.elf
+2026-10-13 19:49:30 INFO    chains: state -> FAILED:payload_rejected t1.elf delivery failed after 3 attempts
+2026-10-13 19:49:30 INFO    chains: state -> IDLE 
+2026-10-13 19:49:30 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:49:30 INFO    chains: state -> HOSTING 
+2026-10-13 19:49:30 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:49:30 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:49:30 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:49:30 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:49:30 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:49:30 WARNING chains: payload t1.elf attempt 1 failed: connection_reset
+2026-10-13 19:49:31 WARNING chains: payload t1.elf attempt 2 failed: connection_reset
+2026-10-13 19:49:34 WARNING chains: payload t1.elf attempt 3 failed: connection_reset
+2026-10-13 19:49:34 ERROR   chains: payload chain PARTIAL — failing item: t1.elf
+2026-10-13 19:49:34 INFO    chains: state -> FAILED:payload_rejected t1.elf delivery failed after 3 attempts
+2026-10-13 19:49:35 INFO    chains: state -> IDLE 
+2026-10-13 19:49:35 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:49:35 INFO    chains: state -> HOSTING 
+2026-10-13 19:49:35 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:49:35 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:49:35 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:49:35 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:49:35 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:49:35 INFO    injector: injected 580 raw bytes to 127.0.0.1:64320
+2026-10-13 19:49:35 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 19:49:35 INFO    injector: injected 580 raw bytes to 127.0.0.1:64320
+2026-10-13 19:49:35 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 19:49:35 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:49:35 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 19:49:35 INFO    chains: state -> IDLE 
+2026-10-13 19:49:35 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:49:35 INFO    chains: state -> HOSTING 
+2026-10-13 19:49:35 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:49:35 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:49:38 INFO    chains: state -> FAILED:cancelled userland stage cancelled
+2026-10-13 19:49:38 INFO    chains: state -> IDLE 
+2026-10-13 19:49:38 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:49:38 INFO    chains: state -> HOSTING 
+2026-10-13 19:49:38 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:49:38 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:49:39 WARNING chains: run() called while already running - duplicate suppressed
+2026-10-13 19:49:41 INFO    chains: state -> FAILED:cancelled userland stage cancelled
+2026-10-13 19:49:41 INFO    netsvc: wildcard DNS listening on UDP :0 -> 127.0.0.1
+2026-10-13 19:49:41 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 19:49:43 INFO    netsvc: wildcard DNS listening on UDP :0 -> 127.0.0.1
+2026-10-13 19:49:43 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 19:49:43 ERROR   payloads: payload bad.elf REJECTED: unverified_placeholder
+2026-10-13 19:49:51 ERROR   payloads: payload kstuff.elf REJECTED: missing_file
+2026-10-13 19:51:09 INFO    netsvc: wildcard DNS listening on UDP :65529 -> 192.168.1.223
+2026-10-13 19:51:09 INFO    main: HTTP host: http://192.168.1.223:53540  (wildcard DNS -> 192.168.1.223)
+2026-10-13 19:51:09 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:53540, press RUN
+2026-10-13 19:51:09 INFO    main: shutting down…
+2026-10-13 19:51:10 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 19:51:10 INFO    main: shutdown complete
+2026-10-13 19:51:10 WARNING main: HTTP port 8080 unavailable (in_use on loopback ([WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted) - change the port in config/settings.json); free it or change settings.json http.port - a common occupant on Windows is Steam's webhelper on 127.0.0.1:8080
+2026-10-13 19:51:10 INFO    netsvc: wildcard DNS listening on UDP :65531 -> 192.168.1.223
+2026-10-13 19:51:10 INFO    main: HTTP host: http://192.168.1.223:8080  (wildcard DNS -> 192.168.1.223)
+2026-10-13 19:51:10 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:8080, press RUN
+2026-10-13 19:51:10 INFO    chains: state -> IDLE 
+2026-10-13 19:51:10 INFO    chains: state -> FAILED:unsupported_firmware no profile matched the console firmware
+2026-10-13 19:51:10 INFO    chains: state -> IDLE 
+2026-10-13 19:51:10 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:51:10 INFO    chains: state -> HOSTING 
+2026-10-13 19:51:10 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:51:10 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:51:10 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 19:51:10 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:51:10 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 19:51:10 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 19:51:10 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 19:51:10 INFO    chains: state -> IDLE 
+2026-10-13 19:51:10 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:51:10 INFO    chains: state -> HOSTING 
+2026-10-13 19:51:10 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:51:10 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:51:10 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:51:10 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 19:51:10 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 19:51:10 INFO    chains: state -> FAILED:payload_rejected a.elf not validated
+2026-10-13 19:51:10 INFO    chains: state -> IDLE 
+2026-10-13 19:51:10 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:51:10 INFO    chains: state -> HOSTING 
+2026-10-13 19:51:10 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:51:10 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:51:10 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:51:10 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 19:51:10 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 19:51:10 INFO    chains: payload a.elf delivered (attempt 1)
+2026-10-13 19:51:10 INFO    chains: payload b.elf delivered (attempt 1)
+2026-10-13 19:51:10 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:51:10 INFO    chains: state -> FAILED:unverified_execution payloads delivered but no console-side confirmation
+2026-10-13 19:51:10 INFO    chains: state -> IDLE 
+2026-10-13 19:51:10 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:51:10 INFO    chains: state -> HOSTING 
+2026-10-13 19:51:10 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:51:10 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:51:10 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:51:10 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 19:51:10 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 19:51:10 INFO    chains: payload a.elf delivered (attempt 1)
+2026-10-13 19:51:10 INFO    chains: payload b.elf delivered (attempt 1)
+2026-10-13 19:51:10 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:51:10 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 19:51:10 INFO    chains: state -> IDLE 
+2026-10-13 19:51:10 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:51:10 INFO    chains: state -> FAILED:payload_rejected payload a.elf rejected: no_provenance_record
+2026-10-13 19:51:10 INFO    chains: state -> IDLE 
+2026-10-13 19:51:10 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:51:10 INFO    chains: state -> FAILED:missing_assets payload a.elf rejected: missing_file
+2026-10-13 19:51:10 INFO    chains: state -> IDLE 
+2026-10-13 19:51:10 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:51:10 INFO    chains: state -> HOSTING 
+2026-10-13 19:51:10 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:51:10 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:51:10 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 19:51:10 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:51:10 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 19:51:10 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 19:51:11 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 19:51:11 INFO    chains: state -> IDLE 
+2026-10-13 19:51:11 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:51:11 INFO    chains: state -> HOSTING 
+2026-10-13 19:51:11 INFO    chains: state -> FAILED:cancelled userland attempt 1
+2026-10-13 19:51:11 INFO    chains: state -> IDLE 
+2026-10-13 19:51:11 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:51:11 INFO    chains: state -> HOSTING 
+2026-10-13 19:51:11 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:51:11 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:51:11 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 19:51:11 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:51:11 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 19:51:11 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 19:51:11 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 19:51:11 WARNING chains: run() called while already running - duplicate suppressed
+2026-10-13 19:51:11 INFO    discovery: PS5 discovered at 192.168.1.9 (ports 9020/9021 live: (True, False))
+2026-10-13 19:51:11 INFO    discovery: PS5 address changed 192.168.1.9 -> 192.168.1.12, reconnecting
+2026-10-13 19:51:11 INFO    injector: injected 16 raw bytes to 127.0.0.1:53543
+2026-10-13 19:51:12 INFO    injector: injected URI file:/data/kstuff.elf to 127.0.0.1:53545
+2026-10-13 19:51:12 INFO    injector: injected URI http://192.168.1.23:8080/payloads/kstuff.elf to 127.0.0.1:53547
+2026-10-13 19:51:18 INFO    discovery: PS5 discovered at 127.0.0.1 (ports 9020/9021 live: (True, True))
+2026-10-13 19:51:19 INFO    discovery: PS5 address changed 127.0.0.1 -> 127.0.0.2, reconnecting
+2026-10-13 19:51:19 INFO    chains: state -> IDLE 
+2026-10-13 19:51:19 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:51:19 INFO    chains: state -> HOSTING 
+2026-10-13 19:51:19 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:51:19 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:51:19 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:51:19 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:51:19 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:51:19 INFO    injector: injected 580 raw bytes to 127.0.0.1:53574
+2026-10-13 19:51:19 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 19:51:19 INFO    injector: injected 580 raw bytes to 127.0.0.1:53574
+2026-10-13 19:51:19 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 19:51:19 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:51:19 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 19:51:19 INFO    chains: state -> IDLE 
+2026-10-13 19:51:19 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:51:19 INFO    chains: state -> HOSTING 
+2026-10-13 19:51:19 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:51:19 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:51:20 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:51:20 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:51:20 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:51:20 INFO    injector: injected 580 raw bytes to 127.0.0.1:53586
+2026-10-13 19:51:20 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 19:51:20 INFO    injector: injected 580 raw bytes to 127.0.0.1:53586
+2026-10-13 19:51:20 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 19:51:20 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:51:22 INFO    chains: state -> FAILED:unverified_execution payloads delivered but no console-side confirmation
+2026-10-13 19:51:22 INFO    chains: state -> IDLE 
+2026-10-13 19:51:22 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:51:22 INFO    chains: state -> HOSTING 
+2026-10-13 19:51:22 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:51:22 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:51:22 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:51:22 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:51:22 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:51:22 WARNING chains: payload t1.elf attempt 1 failed: connection_reset
+2026-10-13 19:51:23 WARNING chains: payload t1.elf attempt 2 failed: connection_reset
+2026-10-13 19:51:26 WARNING chains: payload t1.elf attempt 3 failed: connection_reset
+2026-10-13 19:51:26 ERROR   chains: payload chain PARTIAL — failing item: t1.elf
+2026-10-13 19:51:26 INFO    chains: state -> FAILED:payload_rejected t1.elf delivery failed after 3 attempts
+2026-10-13 19:51:26 INFO    chains: state -> IDLE 
+2026-10-13 19:51:26 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:51:26 INFO    chains: state -> HOSTING 
+2026-10-13 19:51:26 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:51:26 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:51:26 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:51:26 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:51:26 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:51:26 WARNING chains: payload t1.elf attempt 1 failed: connection_reset
+2026-10-13 19:51:28 WARNING chains: payload t1.elf attempt 2 failed: connection_reset
+2026-10-13 19:51:31 WARNING chains: payload t1.elf attempt 3 failed: connection_reset
+2026-10-13 19:51:31 ERROR   chains: payload chain PARTIAL — failing item: t1.elf
+2026-10-13 19:51:31 INFO    chains: state -> FAILED:payload_rejected t1.elf delivery failed after 3 attempts
+2026-10-13 19:51:31 INFO    chains: state -> IDLE 
+2026-10-13 19:51:31 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:51:31 INFO    chains: state -> HOSTING 
+2026-10-13 19:51:31 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:51:31 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:51:31 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:51:31 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:51:31 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:51:31 INFO    injector: injected 580 raw bytes to 127.0.0.1:53650
+2026-10-13 19:51:31 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 19:51:31 INFO    injector: injected 580 raw bytes to 127.0.0.1:53650
+2026-10-13 19:51:31 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 19:51:31 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:51:31 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 19:51:31 INFO    chains: state -> IDLE 
+2026-10-13 19:51:31 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:51:31 INFO    chains: state -> HOSTING 
+2026-10-13 19:51:31 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:51:31 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:51:34 INFO    chains: state -> FAILED:cancelled userland stage cancelled
+2026-10-13 19:51:34 INFO    chains: state -> IDLE 
+2026-10-13 19:51:34 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:51:34 INFO    chains: state -> HOSTING 
+2026-10-13 19:51:34 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:51:34 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:51:35 WARNING chains: run() called while already running - duplicate suppressed
+2026-10-13 19:51:37 INFO    chains: state -> FAILED:cancelled userland stage cancelled
+2026-10-13 19:51:37 INFO    netsvc: wildcard DNS listening on UDP :0 -> 127.0.0.1
+2026-10-13 19:51:37 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 19:51:39 INFO    netsvc: wildcard DNS listening on UDP :0 -> 127.0.0.1
+2026-10-13 19:51:39 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 19:51:39 ERROR   payloads: payload bad.elf REJECTED: unverified_placeholder
+2026-10-13 19:51:39 ERROR   payloads: payload kstuff.elf REJECTED: missing_file
+2026-10-13 19:52:43 INFO    netsvc: wildcard DNS listening on UDP :50088 -> 192.168.1.223
+2026-10-13 19:52:43 INFO    main: HTTP host: http://192.168.1.223:53095  (wildcard DNS -> 192.168.1.223)
+2026-10-13 19:52:43 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:53095, press RUN
+2026-10-13 19:52:43 INFO    main: shutting down…
+2026-10-13 19:52:43 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 19:52:43 INFO    main: shutdown complete
+2026-10-13 19:52:43 WARNING main: HTTP port 8080 unavailable (in_use on loopback ([WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted) - change the port in config/settings.json); free it or change settings.json http.port - a common occupant on Windows is Steam's webhelper on 127.0.0.1:8080
+2026-10-13 19:52:43 INFO    netsvc: wildcard DNS listening on UDP :50090 -> 192.168.1.223
+2026-10-13 19:52:43 INFO    main: HTTP host: http://192.168.1.223:8080  (wildcard DNS -> 192.168.1.223)
+2026-10-13 19:52:43 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:8080, press RUN
+2026-10-13 19:52:43 INFO    chains: state -> IDLE 
+2026-10-13 19:52:43 INFO    chains: state -> FAILED:unsupported_firmware no profile matched the console firmware
+2026-10-13 19:52:43 INFO    chains: state -> IDLE 
+2026-10-13 19:52:43 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:52:43 INFO    chains: state -> HOSTING 
+2026-10-13 19:52:43 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:52:43 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:52:43 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 19:52:43 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:52:43 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 19:52:43 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 19:52:44 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 19:52:44 INFO    chains: state -> IDLE 
+2026-10-13 19:52:44 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:52:44 INFO    chains: state -> HOSTING 
+2026-10-13 19:52:44 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:52:44 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:52:44 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:52:44 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 19:52:44 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 19:52:44 INFO    chains: state -> FAILED:payload_rejected a.elf not validated
+2026-10-13 19:52:44 INFO    chains: state -> IDLE 
+2026-10-13 19:52:44 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:52:44 INFO    chains: state -> HOSTING 
+2026-10-13 19:52:44 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:52:44 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:52:44 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:52:44 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 19:52:44 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 19:52:44 INFO    chains: payload a.elf delivered (attempt 1)
+2026-10-13 19:52:44 INFO    chains: payload b.elf delivered (attempt 1)
+2026-10-13 19:52:44 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:52:44 INFO    chains: state -> FAILED:unverified_execution payloads delivered but no console-side confirmation
+2026-10-13 19:52:44 INFO    chains: state -> IDLE 
+2026-10-13 19:52:44 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:52:44 INFO    chains: state -> HOSTING 
+2026-10-13 19:52:44 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:52:44 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:52:44 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:52:44 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 19:52:44 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 19:52:44 INFO    chains: payload a.elf delivered (attempt 1)
+2026-10-13 19:52:44 INFO    chains: payload b.elf delivered (attempt 1)
+2026-10-13 19:52:44 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:52:44 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 19:52:44 INFO    chains: state -> IDLE 
+2026-10-13 19:52:44 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:52:44 INFO    chains: state -> FAILED:payload_rejected payload a.elf rejected: no_provenance_record
+2026-10-13 19:52:44 INFO    chains: state -> IDLE 
+2026-10-13 19:52:44 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:52:44 INFO    chains: state -> FAILED:missing_assets payload a.elf rejected: missing_file
+2026-10-13 19:52:44 INFO    chains: state -> IDLE 
+2026-10-13 19:52:44 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:52:44 INFO    chains: state -> HOSTING 
+2026-10-13 19:52:44 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:52:44 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:52:44 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 19:52:44 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:52:44 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 19:52:44 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 19:52:44 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 19:52:44 INFO    chains: state -> IDLE 
+2026-10-13 19:52:44 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:52:44 INFO    chains: state -> HOSTING 
+2026-10-13 19:52:44 INFO    chains: state -> FAILED:cancelled userland attempt 1
+2026-10-13 19:52:44 INFO    chains: state -> IDLE 
+2026-10-13 19:52:44 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:52:44 INFO    chains: state -> HOSTING 
+2026-10-13 19:52:44 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:52:44 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:52:44 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 19:52:44 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:52:44 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 19:52:44 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 19:52:44 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 19:52:44 WARNING chains: run() called while already running - duplicate suppressed
+2026-10-13 19:52:45 INFO    discovery: PS5 discovered at 192.168.1.9 (ports 9020/9021 live: (True, False))
+2026-10-13 19:52:45 INFO    discovery: PS5 address changed 192.168.1.9 -> 192.168.1.12, reconnecting
+2026-10-13 19:52:45 INFO    injector: injected 16 raw bytes to 127.0.0.1:53101
+2026-10-13 19:52:45 INFO    injector: injected URI file:/data/kstuff.elf to 127.0.0.1:53103
+2026-10-13 19:52:45 INFO    injector: injected URI http://192.168.1.23:8080/payloads/kstuff.elf to 127.0.0.1:53105
+2026-10-13 19:52:51 INFO    discovery: PS5 discovered at 127.0.0.1 (ports 9020/9021 live: (True, True))
+2026-10-13 19:52:53 INFO    discovery: PS5 address changed 127.0.0.1 -> 127.0.0.2, reconnecting
+2026-10-13 19:52:53 INFO    chains: state -> IDLE 
+2026-10-13 19:52:53 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:52:53 INFO    chains: state -> HOSTING 
+2026-10-13 19:52:53 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:52:53 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:52:53 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:52:53 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:52:53 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:52:53 INFO    injector: injected 580 raw bytes to 127.0.0.1:53131
+2026-10-13 19:52:53 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 19:52:53 INFO    injector: injected 580 raw bytes to 127.0.0.1:53131
+2026-10-13 19:52:53 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 19:52:53 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:52:53 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 19:52:53 INFO    chains: state -> IDLE 
+2026-10-13 19:52:53 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:52:53 INFO    chains: state -> HOSTING 
+2026-10-13 19:52:53 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:52:53 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:52:53 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:52:53 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:52:53 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:52:53 INFO    injector: injected 580 raw bytes to 127.0.0.1:53145
+2026-10-13 19:52:53 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 19:52:53 INFO    injector: injected 580 raw bytes to 127.0.0.1:53145
+2026-10-13 19:52:53 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 19:52:53 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:52:55 INFO    chains: state -> FAILED:unverified_execution payloads delivered but no console-side confirmation
+2026-10-13 19:52:55 INFO    chains: state -> IDLE 
+2026-10-13 19:52:55 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:52:55 INFO    chains: state -> HOSTING 
+2026-10-13 19:52:55 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:52:55 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:52:55 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:52:55 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:52:55 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:52:55 WARNING chains: payload t1.elf attempt 1 failed: connection_reset
+2026-10-13 19:52:57 WARNING chains: payload t1.elf attempt 2 failed: connection_reset
+2026-10-13 19:53:00 WARNING chains: payload t1.elf attempt 3 failed: connection_reset
+2026-10-13 19:53:00 ERROR   chains: payload chain PARTIAL — failing item: t1.elf
+2026-10-13 19:53:00 INFO    chains: state -> FAILED:payload_rejected t1.elf delivery failed after 3 attempts
+2026-10-13 19:53:00 INFO    chains: state -> IDLE 
+2026-10-13 19:53:00 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:53:00 INFO    chains: state -> HOSTING 
+2026-10-13 19:53:00 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:53:00 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:53:00 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:53:00 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:53:00 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:53:00 WARNING chains: payload t1.elf attempt 1 failed: connection_reset
+2026-10-13 19:53:01 WARNING chains: payload t1.elf attempt 2 failed: connection_reset
+2026-10-13 19:53:04 WARNING chains: payload t1.elf attempt 3 failed: connection_reset
+2026-10-13 19:53:04 ERROR   chains: payload chain PARTIAL — failing item: t1.elf
+2026-10-13 19:53:04 INFO    chains: state -> FAILED:payload_rejected t1.elf delivery failed after 3 attempts
+2026-10-13 19:53:04 INFO    chains: state -> IDLE 
+2026-10-13 19:53:04 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:53:04 INFO    chains: state -> HOSTING 
+2026-10-13 19:53:04 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:53:04 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:53:04 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:53:04 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:53:04 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:53:04 INFO    injector: injected 580 raw bytes to 127.0.0.1:53202
+2026-10-13 19:53:04 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 19:53:04 INFO    injector: injected 580 raw bytes to 127.0.0.1:53202
+2026-10-13 19:53:04 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 19:53:04 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:53:04 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 19:53:04 INFO    chains: state -> IDLE 
+2026-10-13 19:53:04 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:53:04 INFO    chains: state -> HOSTING 
+2026-10-13 19:53:04 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:53:04 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:53:08 INFO    chains: state -> FAILED:cancelled userland stage cancelled
+2026-10-13 19:53:08 INFO    chains: state -> IDLE 
+2026-10-13 19:53:08 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:53:08 INFO    chains: state -> HOSTING 
+2026-10-13 19:53:08 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:53:08 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:53:09 WARNING chains: run() called while already running - duplicate suppressed
+2026-10-13 19:53:11 INFO    chains: state -> FAILED:cancelled userland stage cancelled
+2026-10-13 19:53:11 INFO    netsvc: wildcard DNS listening on UDP :0 -> 127.0.0.1
+2026-10-13 19:53:11 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 19:53:12 INFO    netsvc: wildcard DNS listening on UDP :0 -> 127.0.0.1
+2026-10-13 19:53:13 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 19:53:13 ERROR   payloads: payload bad.elf REJECTED: unverified_placeholder
+2026-10-13 19:53:13 ERROR   payloads: payload kstuff.elf REJECTED: missing_file
+2026-10-13 19:53:54 INFO    netsvc: wildcard DNS listening on UDP :64529 -> 192.168.1.223
+2026-10-13 19:53:54 INFO    main: HTTP host: http://192.168.1.223:53457  (wildcard DNS -> 192.168.1.223)
+2026-10-13 19:53:54 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:53457, press RUN
+2026-10-13 19:53:54 INFO    main: shutting down…
+2026-10-13 19:53:54 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 19:53:54 INFO    main: shutdown complete
+2026-10-13 19:53:54 WARNING main: HTTP port 8080 unavailable (in_use on loopback ([WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted) - change the port in config/settings.json); free it or change settings.json http.port - a common occupant on Windows is Steam's webhelper on 127.0.0.1:8080
+2026-10-13 19:53:54 INFO    netsvc: wildcard DNS listening on UDP :64531 -> 192.168.1.223
+2026-10-13 19:53:54 INFO    main: HTTP host: http://192.168.1.223:8080  (wildcard DNS -> 192.168.1.223)
+2026-10-13 19:53:54 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:8080, press RUN
+2026-10-13 19:53:54 INFO    chains: state -> IDLE 
+2026-10-13 19:53:54 INFO    chains: state -> FAILED:unsupported_firmware no profile matched the console firmware
+2026-10-13 19:53:54 INFO    chains: state -> IDLE 
+2026-10-13 19:53:54 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:53:54 INFO    chains: state -> HOSTING 
+2026-10-13 19:53:54 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:53:54 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:53:54 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 19:53:54 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:53:54 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 19:53:54 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 19:53:54 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 19:53:54 INFO    chains: state -> IDLE 
+2026-10-13 19:53:54 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:53:54 INFO    chains: state -> HOSTING 
+2026-10-13 19:53:54 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:53:54 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:53:54 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:53:54 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 19:53:54 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 19:53:54 INFO    chains: state -> FAILED:payload_rejected a.elf not validated
+2026-10-13 19:53:54 INFO    chains: state -> IDLE 
+2026-10-13 19:53:54 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:53:54 INFO    chains: state -> HOSTING 
+2026-10-13 19:53:54 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:53:54 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:53:54 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:53:54 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 19:53:54 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 19:53:54 INFO    chains: payload a.elf delivered (attempt 1)
+2026-10-13 19:53:54 INFO    chains: payload b.elf delivered (attempt 1)
+2026-10-13 19:53:54 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:53:54 INFO    chains: state -> FAILED:unverified_execution payloads delivered but no console-side confirmation
+2026-10-13 19:53:54 INFO    chains: state -> IDLE 
+2026-10-13 19:53:54 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:53:54 INFO    chains: state -> HOSTING 
+2026-10-13 19:53:54 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:53:54 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:53:54 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:53:54 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 19:53:54 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 19:53:54 INFO    chains: payload a.elf delivered (attempt 1)
+2026-10-13 19:53:54 INFO    chains: payload b.elf delivered (attempt 1)
+2026-10-13 19:53:54 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:53:54 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 19:53:54 INFO    chains: state -> IDLE 
+2026-10-13 19:53:54 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:53:54 INFO    chains: state -> FAILED:payload_rejected payload a.elf rejected: no_provenance_record
+2026-10-13 19:53:54 INFO    chains: state -> IDLE 
+2026-10-13 19:53:54 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:53:54 INFO    chains: state -> FAILED:missing_assets payload a.elf rejected: missing_file
+2026-10-13 19:53:54 INFO    chains: state -> IDLE 
+2026-10-13 19:53:54 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:53:54 INFO    chains: state -> HOSTING 
+2026-10-13 19:53:54 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:53:54 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:53:54 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 19:53:55 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:53:55 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 19:53:55 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 19:53:55 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 19:53:55 INFO    chains: state -> IDLE 
+2026-10-13 19:53:55 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:53:55 INFO    chains: state -> HOSTING 
+2026-10-13 19:53:55 INFO    chains: state -> FAILED:cancelled userland attempt 1
+2026-10-13 19:53:55 INFO    chains: state -> IDLE 
+2026-10-13 19:53:55 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:53:55 INFO    chains: state -> HOSTING 
+2026-10-13 19:53:55 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:53:55 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:53:55 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 19:53:55 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:53:55 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 19:53:55 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 19:53:55 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 19:53:55 WARNING chains: run() called while already running - duplicate suppressed
+2026-10-13 19:53:56 INFO    discovery: PS5 discovered at 192.168.1.9 (ports 9020/9021 live: (True, False))
+2026-10-13 19:53:56 INFO    discovery: PS5 address changed 192.168.1.9 -> 192.168.1.12, reconnecting
+2026-10-13 19:53:56 INFO    injector: injected 16 raw bytes to 127.0.0.1:53466
+2026-10-13 19:53:56 INFO    injector: injected URI file:/data/kstuff.elf to 127.0.0.1:53468
+2026-10-13 19:53:56 INFO    injector: injected URI http://192.168.1.23:8080/payloads/kstuff.elf to 127.0.0.1:53470
+2026-10-13 19:54:02 INFO    discovery: PS5 discovered at 127.0.0.1 (ports 9020/9021 live: (True, True))
+2026-10-13 19:54:04 INFO    discovery: PS5 address changed 127.0.0.1 -> 127.0.0.2, reconnecting
+2026-10-13 19:54:04 INFO    chains: state -> IDLE 
+2026-10-13 19:54:04 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:54:04 INFO    chains: state -> HOSTING 
+2026-10-13 19:54:04 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:54:04 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:54:04 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:54:04 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:54:04 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:54:04 INFO    injector: injected 580 raw bytes to 127.0.0.1:53500
+2026-10-13 19:54:04 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 19:54:04 INFO    injector: injected 580 raw bytes to 127.0.0.1:53500
+2026-10-13 19:54:04 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 19:54:04 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:54:04 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 19:54:04 INFO    chains: state -> IDLE 
+2026-10-13 19:54:04 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:54:04 INFO    chains: state -> HOSTING 
+2026-10-13 19:54:04 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:54:04 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:54:04 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:54:04 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:54:04 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:54:04 INFO    injector: injected 580 raw bytes to 127.0.0.1:53514
+2026-10-13 19:54:04 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 19:54:04 INFO    injector: injected 580 raw bytes to 127.0.0.1:53514
+2026-10-13 19:54:04 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 19:54:04 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:54:06 INFO    chains: state -> FAILED:unverified_execution payloads delivered but no console-side confirmation
+2026-10-13 19:54:06 INFO    chains: state -> IDLE 
+2026-10-13 19:54:06 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:54:06 INFO    chains: state -> HOSTING 
+2026-10-13 19:54:06 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:54:06 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:54:06 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:54:06 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:54:06 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:54:06 WARNING chains: payload t1.elf attempt 1 failed: connection_reset
+2026-10-13 19:54:07 WARNING chains: payload t1.elf attempt 2 failed: connection_reset
+2026-10-13 19:54:10 WARNING chains: payload t1.elf attempt 3 failed: connection_reset
+2026-10-13 19:54:10 ERROR   chains: payload chain PARTIAL — failing item: t1.elf
+2026-10-13 19:54:10 INFO    chains: state -> FAILED:payload_rejected t1.elf delivery failed after 3 attempts
+2026-10-13 19:54:10 INFO    chains: state -> IDLE 
+2026-10-13 19:54:10 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:54:10 INFO    chains: state -> HOSTING 
+2026-10-13 19:54:10 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:54:10 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:54:10 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:54:10 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:54:10 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:54:10 WARNING chains: payload t1.elf attempt 1 failed: connection_reset
+2026-10-13 19:54:12 WARNING chains: payload t1.elf attempt 2 failed: connection_reset
+2026-10-13 19:54:15 WARNING chains: payload t1.elf attempt 3 failed: connection_reset
+2026-10-13 19:54:15 ERROR   chains: payload chain PARTIAL — failing item: t1.elf
+2026-10-13 19:54:15 INFO    chains: state -> FAILED:payload_rejected t1.elf delivery failed after 3 attempts
+2026-10-13 19:54:15 INFO    chains: state -> IDLE 
+2026-10-13 19:54:15 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:54:15 INFO    chains: state -> HOSTING 
+2026-10-13 19:54:15 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:54:15 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:54:15 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:54:15 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:54:15 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:54:15 INFO    injector: injected 580 raw bytes to 127.0.0.1:53596
+2026-10-13 19:54:15 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 19:54:15 INFO    injector: injected 580 raw bytes to 127.0.0.1:53596
+2026-10-13 19:54:15 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 19:54:15 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:54:15 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 19:54:15 INFO    chains: state -> IDLE 
+2026-10-13 19:54:15 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:54:15 INFO    chains: state -> HOSTING 
+2026-10-13 19:54:15 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:54:15 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:54:18 INFO    chains: state -> FAILED:cancelled userland stage cancelled
+2026-10-13 19:54:18 INFO    chains: state -> IDLE 
+2026-10-13 19:54:18 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:54:18 INFO    chains: state -> HOSTING 
+2026-10-13 19:54:18 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:54:18 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:54:19 WARNING chains: run() called while already running - duplicate suppressed
+2026-10-13 19:54:21 INFO    chains: state -> FAILED:cancelled userland stage cancelled
+2026-10-13 19:54:21 INFO    netsvc: wildcard DNS listening on UDP :0 -> 127.0.0.1
+2026-10-13 19:54:22 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 19:54:23 INFO    netsvc: wildcard DNS listening on UDP :0 -> 127.0.0.1
+2026-10-13 19:54:23 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 19:54:24 ERROR   payloads: payload bad.elf REJECTED: unverified_placeholder
+2026-10-13 19:54:24 ERROR   payloads: payload kstuff.elf REJECTED: missing_file
+2026-10-13 19:55:18 WARNING main: HTTP port 8080 unavailable (in_use on loopback ([WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted) - change the port in config/settings.json); free it or change settings.json http.port - a common occupant on Windows is Steam's webhelper on 127.0.0.1:8080
+2026-10-13 19:55:18 INFO    netsvc: wildcard DNS listening on UDP :53 -> 192.168.1.223
+2026-10-13 19:55:18 INFO    main: HTTP host: http://192.168.1.223:8080  (wildcard DNS -> 192.168.1.223)
+2026-10-13 19:55:18 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:8080, press RUN
+2026-10-13 19:55:18 ERROR   main: fatal: 'StringVar' object has no attribute 'bind'
+Traceback (most recent call last):
+  File "C:\Users\e1jv\Downloads\14.10 jailbreak\ps5-jb-1410\src\main.py", line 319, in main
+    return app.run_headless() if args.headless else app.run_gui()
+                                                    ~~~~~~~~~~~^^
+  File "C:\Users\e1jv\Downloads\14.10 jailbreak\ps5-jb-1410\src\main.py", line 206, in run_gui
+    self.ui = gui_mod.App(self._status)
+              ~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\e1jv\Downloads\14.10 jailbreak\ps5-jb-1410\src\gui.py", line 37, in __init__
+    self.ip_pc.bind  # (copy-and-paste: user can select the label text)
+    ^^^^^^^^^^^^^^^
+AttributeError: 'StringVar' object has no attribute 'bind'
+2026-10-13 19:56:13 INFO    netsvc: wildcard DNS listening on UDP :52616 -> 192.168.1.223
+2026-10-13 19:56:13 INFO    main: HTTP host: http://192.168.1.223:52170  (wildcard DNS -> 192.168.1.223)
+2026-10-13 19:56:13 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:52170, press RUN
+2026-10-13 19:56:13 INFO    main: shutting down…
+2026-10-13 19:56:14 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 19:56:14 INFO    main: shutdown complete
+2026-10-13 19:56:14 WARNING main: HTTP port 8080 unavailable (in_use on loopback ([WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted) - change the port in config/settings.json); free it or change settings.json http.port - a common occupant on Windows is Steam's webhelper on 127.0.0.1:8080
+2026-10-13 19:56:14 INFO    netsvc: wildcard DNS listening on UDP :52468 -> 192.168.1.223
+2026-10-13 19:56:14 INFO    main: HTTP host: http://192.168.1.223:8080  (wildcard DNS -> 192.168.1.223)
+2026-10-13 19:56:14 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:8080, press RUN
+2026-10-13 19:56:14 INFO    chains: state -> IDLE 
+2026-10-13 19:56:14 INFO    chains: state -> FAILED:unsupported_firmware no profile matched the console firmware
+2026-10-13 19:56:14 INFO    chains: state -> IDLE 
+2026-10-13 19:56:14 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:56:14 INFO    chains: state -> HOSTING 
+2026-10-13 19:56:14 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:56:14 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:56:14 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 19:56:14 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:56:14 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 19:56:14 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 19:56:14 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 19:56:14 INFO    chains: state -> IDLE 
+2026-10-13 19:56:14 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:56:14 INFO    chains: state -> HOSTING 
+2026-10-13 19:56:14 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:56:14 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:56:14 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:56:14 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 19:56:14 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 19:56:14 INFO    chains: state -> FAILED:payload_rejected a.elf not validated
+2026-10-13 19:56:14 INFO    chains: state -> IDLE 
+2026-10-13 19:56:14 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:56:14 INFO    chains: state -> HOSTING 
+2026-10-13 19:56:14 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:56:14 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:56:14 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:56:14 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 19:56:14 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 19:56:14 INFO    chains: payload a.elf delivered (attempt 1)
+2026-10-13 19:56:14 INFO    chains: payload b.elf delivered (attempt 1)
+2026-10-13 19:56:14 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:56:14 INFO    chains: state -> FAILED:unverified_execution payloads delivered but no console-side confirmation
+2026-10-13 19:56:14 INFO    chains: state -> IDLE 
+2026-10-13 19:56:14 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:56:14 INFO    chains: state -> HOSTING 
+2026-10-13 19:56:14 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:56:14 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:56:14 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:56:14 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 19:56:14 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 19:56:14 INFO    chains: payload a.elf delivered (attempt 1)
+2026-10-13 19:56:14 INFO    chains: payload b.elf delivered (attempt 1)
+2026-10-13 19:56:14 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:56:14 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 19:56:14 INFO    chains: state -> IDLE 
+2026-10-13 19:56:14 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:56:14 INFO    chains: state -> FAILED:payload_rejected payload a.elf rejected: no_provenance_record
+2026-10-13 19:56:14 INFO    chains: state -> IDLE 
+2026-10-13 19:56:14 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:56:14 INFO    chains: state -> FAILED:missing_assets payload a.elf rejected: missing_file
+2026-10-13 19:56:14 INFO    chains: state -> IDLE 
+2026-10-13 19:56:14 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:56:14 INFO    chains: state -> HOSTING 
+2026-10-13 19:56:14 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:56:14 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:56:14 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 19:56:14 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:56:14 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 19:56:14 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 19:56:14 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 19:56:14 INFO    chains: state -> IDLE 
+2026-10-13 19:56:14 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:56:14 INFO    chains: state -> HOSTING 
+2026-10-13 19:56:14 INFO    chains: state -> FAILED:cancelled userland attempt 1
+2026-10-13 19:56:14 INFO    chains: state -> IDLE 
+2026-10-13 19:56:14 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:56:14 INFO    chains: state -> HOSTING 
+2026-10-13 19:56:14 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:56:14 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:56:14 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 19:56:14 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:56:14 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 19:56:14 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 19:56:15 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 19:56:15 WARNING chains: run() called while already running - duplicate suppressed
+2026-10-13 19:56:15 INFO    discovery: PS5 discovered at 192.168.1.9 (ports 9020/9021 live: (True, False))
+2026-10-13 19:56:15 INFO    discovery: PS5 address changed 192.168.1.9 -> 192.168.1.12, reconnecting
+2026-10-13 19:56:15 INFO    injector: injected 16 raw bytes to 127.0.0.1:52176
+2026-10-13 19:56:15 INFO    injector: injected URI file:/data/kstuff.elf to 127.0.0.1:52178
+2026-10-13 19:56:15 INFO    injector: injected URI http://192.168.1.23:8080/payloads/kstuff.elf to 127.0.0.1:52180
+2026-10-13 19:56:22 INFO    discovery: PS5 discovered at 127.0.0.1 (ports 9020/9021 live: (True, True))
+2026-10-13 19:56:23 INFO    discovery: PS5 address changed 127.0.0.1 -> 127.0.0.2, reconnecting
+2026-10-13 19:56:23 INFO    chains: state -> IDLE 
+2026-10-13 19:56:23 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:56:23 INFO    chains: state -> HOSTING 
+2026-10-13 19:56:23 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:56:23 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:56:23 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:56:23 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:56:23 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:56:23 INFO    injector: injected 580 raw bytes to 127.0.0.1:52206
+2026-10-13 19:56:23 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 19:56:23 INFO    injector: injected 580 raw bytes to 127.0.0.1:52206
+2026-10-13 19:56:23 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 19:56:23 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:56:23 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 19:56:23 INFO    chains: state -> IDLE 
+2026-10-13 19:56:23 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:56:23 INFO    chains: state -> HOSTING 
+2026-10-13 19:56:23 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:56:23 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:56:23 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:56:23 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:56:23 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:56:23 INFO    injector: injected 580 raw bytes to 127.0.0.1:52218
+2026-10-13 19:56:23 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 19:56:23 INFO    injector: injected 580 raw bytes to 127.0.0.1:52218
+2026-10-13 19:56:23 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 19:56:23 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:56:25 INFO    chains: state -> FAILED:unverified_execution payloads delivered but no console-side confirmation
+2026-10-13 19:56:25 INFO    chains: state -> IDLE 
+2026-10-13 19:56:25 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:56:25 INFO    chains: state -> HOSTING 
+2026-10-13 19:56:25 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:56:25 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:56:25 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:56:25 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:56:25 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:56:25 WARNING chains: payload t1.elf attempt 1 failed: connection_reset
+2026-10-13 19:56:27 WARNING chains: payload t1.elf attempt 2 failed: connection_reset
+2026-10-13 19:56:30 WARNING chains: payload t1.elf attempt 3 failed: connection_reset
+2026-10-13 19:56:30 ERROR   chains: payload chain PARTIAL — failing item: t1.elf
+2026-10-13 19:56:30 INFO    chains: state -> FAILED:payload_rejected t1.elf delivery failed after 3 attempts
+2026-10-13 19:56:30 INFO    chains: state -> IDLE 
+2026-10-13 19:56:30 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:56:30 INFO    chains: state -> HOSTING 
+2026-10-13 19:56:30 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:56:30 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:56:30 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:56:30 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:56:30 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:56:30 WARNING chains: payload t1.elf attempt 1 failed: connection_reset
+2026-10-13 19:56:31 WARNING chains: payload t1.elf attempt 2 failed: connection_reset
+2026-10-13 19:56:34 WARNING chains: payload t1.elf attempt 3 failed: connection_reset
+2026-10-13 19:56:34 ERROR   chains: payload chain PARTIAL — failing item: t1.elf
+2026-10-13 19:56:34 INFO    chains: state -> FAILED:payload_rejected t1.elf delivery failed after 3 attempts
+2026-10-13 19:56:35 INFO    chains: state -> IDLE 
+2026-10-13 19:56:35 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:56:35 INFO    chains: state -> HOSTING 
+2026-10-13 19:56:35 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:56:35 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:56:35 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:56:35 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:56:35 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:56:35 INFO    injector: injected 580 raw bytes to 127.0.0.1:52278
+2026-10-13 19:56:35 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 19:56:35 INFO    injector: injected 580 raw bytes to 127.0.0.1:52278
+2026-10-13 19:56:35 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 19:56:35 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:56:35 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 19:56:35 INFO    chains: state -> IDLE 
+2026-10-13 19:56:35 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:56:35 INFO    chains: state -> HOSTING 
+2026-10-13 19:56:35 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:56:35 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:56:38 INFO    chains: state -> FAILED:cancelled userland stage cancelled
+2026-10-13 19:56:38 INFO    chains: state -> IDLE 
+2026-10-13 19:56:38 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:56:38 INFO    chains: state -> HOSTING 
+2026-10-13 19:56:38 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:56:38 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:56:39 WARNING chains: run() called while already running - duplicate suppressed
+2026-10-13 19:56:41 INFO    chains: state -> FAILED:cancelled userland stage cancelled
+2026-10-13 19:56:41 INFO    netsvc: wildcard DNS listening on UDP :0 -> 127.0.0.1
+2026-10-13 19:56:41 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 19:56:43 INFO    netsvc: wildcard DNS listening on UDP :0 -> 127.0.0.1
+2026-10-13 19:56:43 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 19:56:43 ERROR   payloads: payload bad.elf REJECTED: unverified_placeholder
+2026-10-13 19:56:58 INFO    netsvc: wildcard DNS listening on UDP :54744 -> 192.168.1.223
+2026-10-13 19:56:58 INFO    main: HTTP host: http://192.168.1.223:52321  (wildcard DNS -> 192.168.1.223)
+2026-10-13 19:56:58 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:52321, press RUN
+2026-10-13 19:56:58 INFO    main: shutting down…
+2026-10-13 19:56:59 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 19:56:59 INFO    main: shutdown complete
+2026-10-13 19:56:59 WARNING main: HTTP port 8080 unavailable (in_use on loopback ([WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted) - change the port in config/settings.json); free it or change settings.json http.port - a common occupant on Windows is Steam's webhelper on 127.0.0.1:8080
+2026-10-13 19:56:59 INFO    netsvc: wildcard DNS listening on UDP :54746 -> 192.168.1.223
+2026-10-13 19:56:59 INFO    main: HTTP host: http://192.168.1.223:8080  (wildcard DNS -> 192.168.1.223)
+2026-10-13 19:56:59 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:8080, press RUN
+2026-10-13 19:56:59 INFO    chains: state -> IDLE 
+2026-10-13 19:56:59 INFO    chains: state -> FAILED:unsupported_firmware no profile matched the console firmware
+2026-10-13 19:56:59 INFO    chains: state -> IDLE 
+2026-10-13 19:56:59 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:56:59 INFO    chains: state -> HOSTING 
+2026-10-13 19:56:59 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:56:59 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:56:59 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 19:56:59 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:56:59 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 19:56:59 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 19:56:59 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 19:56:59 INFO    chains: state -> IDLE 
+2026-10-13 19:56:59 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:56:59 INFO    chains: state -> HOSTING 
+2026-10-13 19:56:59 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:56:59 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:56:59 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:56:59 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 19:56:59 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 19:56:59 INFO    chains: state -> FAILED:payload_rejected a.elf not validated
+2026-10-13 19:56:59 INFO    chains: state -> IDLE 
+2026-10-13 19:56:59 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:56:59 INFO    chains: state -> HOSTING 
+2026-10-13 19:56:59 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:56:59 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:56:59 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:56:59 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 19:56:59 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 19:56:59 INFO    chains: payload a.elf delivered (attempt 1)
+2026-10-13 19:56:59 INFO    chains: payload b.elf delivered (attempt 1)
+2026-10-13 19:56:59 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:56:59 INFO    chains: state -> FAILED:unverified_execution payloads delivered but no console-side confirmation
+2026-10-13 19:56:59 INFO    chains: state -> IDLE 
+2026-10-13 19:56:59 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:56:59 INFO    chains: state -> HOSTING 
+2026-10-13 19:56:59 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:56:59 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:56:59 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:56:59 INFO    chains: attempting kernel stage 'krnl' (single attempt, watchdog 0.2s)
+2026-10-13 19:56:59 INFO    chains: state -> KERNEL_VERIFIED OK (krnl)
+2026-10-13 19:56:59 INFO    chains: payload a.elf delivered (attempt 1)
+2026-10-13 19:56:59 INFO    chains: payload b.elf delivered (attempt 1)
+2026-10-13 19:56:59 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:56:59 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 19:56:59 INFO    chains: state -> IDLE 
+2026-10-13 19:56:59 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:56:59 INFO    chains: state -> FAILED:payload_rejected payload a.elf rejected: no_provenance_record
+2026-10-13 19:56:59 INFO    chains: state -> IDLE 
+2026-10-13 19:56:59 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:56:59 INFO    chains: state -> FAILED:missing_assets payload a.elf rejected: missing_file
+2026-10-13 19:56:59 INFO    chains: state -> IDLE 
+2026-10-13 19:56:59 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:56:59 INFO    chains: state -> HOSTING 
+2026-10-13 19:56:59 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:56:59 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:56:59 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 19:56:59 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:56:59 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 19:56:59 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 19:56:59 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 19:56:59 INFO    chains: state -> IDLE 
+2026-10-13 19:56:59 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:56:59 INFO    chains: state -> HOSTING 
+2026-10-13 19:56:59 INFO    chains: state -> FAILED:cancelled userland attempt 1
+2026-10-13 19:56:59 INFO    chains: state -> IDLE 
+2026-10-13 19:56:59 INFO    chains: state -> DISCOVERED profile=test
+2026-10-13 19:56:59 INFO    chains: state -> HOSTING 
+2026-10-13 19:56:59 INFO    chains: userland attempt 1/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:56:59 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:56:59 WARNING chains: userland attempt 1: 9020 never opened (stall)
+2026-10-13 19:56:59 INFO    chains: userland attempt 2/2 — open http://192.168.1.23:8080/ on the console
+2026-10-13 19:56:59 INFO    chains: state -> WAITING attempt 2/2
+2026-10-13 19:56:59 WARNING chains: userland attempt 2: 9020 never opened (stall)
+2026-10-13 19:56:59 INFO    chains: state -> FAILED:timeout FAILED after 2 attempts
+2026-10-13 19:56:59 WARNING chains: run() called while already running - duplicate suppressed
+2026-10-13 19:57:00 INFO    discovery: PS5 discovered at 192.168.1.9 (ports 9020/9021 live: (True, False))
+2026-10-13 19:57:00 INFO    discovery: PS5 address changed 192.168.1.9 -> 192.168.1.12, reconnecting
+2026-10-13 19:57:00 INFO    injector: injected 16 raw bytes to 127.0.0.1:52327
+2026-10-13 19:57:00 INFO    injector: injected URI file:/data/kstuff.elf to 127.0.0.1:52329
+2026-10-13 19:57:00 INFO    injector: injected URI http://192.168.1.23:8080/payloads/kstuff.elf to 127.0.0.1:52331
+2026-10-13 19:57:07 INFO    discovery: PS5 discovered at 127.0.0.1 (ports 9020/9021 live: (True, True))
+2026-10-13 19:57:08 INFO    discovery: PS5 address changed 127.0.0.1 -> 127.0.0.2, reconnecting
+2026-10-13 19:57:08 INFO    chains: state -> IDLE 
+2026-10-13 19:57:08 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:57:08 INFO    chains: state -> HOSTING 
+2026-10-13 19:57:08 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:57:08 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:57:08 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:57:08 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:57:08 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:57:08 INFO    injector: injected 580 raw bytes to 127.0.0.1:64715
+2026-10-13 19:57:08 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 19:57:08 INFO    injector: injected 580 raw bytes to 127.0.0.1:64715
+2026-10-13 19:57:08 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 19:57:08 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:57:08 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 19:57:08 INFO    chains: state -> IDLE 
+2026-10-13 19:57:08 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:57:08 INFO    chains: state -> HOSTING 
+2026-10-13 19:57:08 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:57:08 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:57:08 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:57:08 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:57:08 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:57:08 INFO    injector: injected 580 raw bytes to 127.0.0.1:64727
+2026-10-13 19:57:08 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 19:57:08 INFO    injector: injected 580 raw bytes to 127.0.0.1:64727
+2026-10-13 19:57:08 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 19:57:08 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:57:10 INFO    chains: state -> FAILED:unverified_execution payloads delivered but no console-side confirmation
+2026-10-13 19:57:10 INFO    chains: state -> IDLE 
+2026-10-13 19:57:10 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:57:10 INFO    chains: state -> HOSTING 
+2026-10-13 19:57:10 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:57:10 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:57:10 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:57:10 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:57:10 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:57:10 WARNING chains: payload t1.elf attempt 1 failed: connection_reset
+2026-10-13 19:57:12 WARNING chains: payload t1.elf attempt 2 failed: connection_reset
+2026-10-13 19:57:15 WARNING chains: payload t1.elf attempt 3 failed: connection_reset
+2026-10-13 19:57:15 ERROR   chains: payload chain PARTIAL — failing item: t1.elf
+2026-10-13 19:57:15 INFO    chains: state -> FAILED:payload_rejected t1.elf delivery failed after 3 attempts
+2026-10-13 19:57:15 INFO    chains: state -> IDLE 
+2026-10-13 19:57:15 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:57:15 INFO    chains: state -> HOSTING 
+2026-10-13 19:57:15 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:57:15 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:57:15 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:57:15 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:57:15 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:57:15 WARNING chains: payload t1.elf attempt 1 failed: connection_reset
+2026-10-13 19:57:17 WARNING chains: payload t1.elf attempt 2 failed: connection_reset
+2026-10-13 19:57:20 WARNING chains: payload t1.elf attempt 3 failed: connection_reset
+2026-10-13 19:57:20 ERROR   chains: payload chain PARTIAL — failing item: t1.elf
+2026-10-13 19:57:20 INFO    chains: state -> FAILED:payload_rejected t1.elf delivery failed after 3 attempts
+2026-10-13 19:57:20 INFO    chains: state -> IDLE 
+2026-10-13 19:57:20 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:57:20 INFO    chains: state -> HOSTING 
+2026-10-13 19:57:20 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:57:20 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:57:20 INFO    chains: state -> USERLAND_VERIFIED probe_evidence: 9020+9021 open after 1 attempt(s)
+2026-10-13 19:57:20 INFO    chains: attempting kernel stage 'relapse_kernel' (single attempt, watchdog 1.0s)
+2026-10-13 19:57:20 INFO    chains: state -> KERNEL_VERIFIED OK (relapse_kernel)
+2026-10-13 19:57:20 INFO    injector: injected 580 raw bytes to 127.0.0.1:50039
+2026-10-13 19:57:20 INFO    chains: payload t1.elf delivered (attempt 1)
+2026-10-13 19:57:20 INFO    injector: injected 580 raw bytes to 127.0.0.1:50039
+2026-10-13 19:57:20 INFO    chains: payload t2.elf delivered (attempt 1)
+2026-10-13 19:57:20 INFO    chains: state -> PAYLOADS_VERIFIED delivery accepted; execution unverified
+2026-10-13 19:57:20 INFO    chains: state -> COMPLETE execution evidence confirmed
+2026-10-13 19:57:20 INFO    chains: state -> IDLE 
+2026-10-13 19:57:20 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:57:20 INFO    chains: state -> HOSTING 
+2026-10-13 19:57:20 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:57:20 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:57:23 INFO    chains: state -> FAILED:cancelled userland stage cancelled
+2026-10-13 19:57:23 INFO    chains: state -> IDLE 
+2026-10-13 19:57:23 INFO    chains: state -> DISCOVERED profile=mock_7_13
+2026-10-13 19:57:23 INFO    chains: state -> HOSTING 
+2026-10-13 19:57:23 INFO    chains: userland attempt 1/2 — open http://127.0.0.1:8080/ on the console
+2026-10-13 19:57:23 INFO    chains: state -> WAITING attempt 1/2
+2026-10-13 19:57:24 WARNING chains: run() called while already running - duplicate suppressed
+2026-10-13 19:57:26 INFO    chains: state -> FAILED:cancelled userland stage cancelled
+2026-10-13 19:57:26 INFO    netsvc: wildcard DNS listening on UDP :0 -> 127.0.0.1
+2026-10-13 19:57:26 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 19:57:28 INFO    netsvc: wildcard DNS listening on UDP :0 -> 127.0.0.1
+2026-10-13 19:57:28 WARNING netsvc: DNS server stopped ([WinError 10038] An operation was attempted on something that is not a socket). Console DNS will not resolve.
+2026-10-13 19:57:28 ERROR   payloads: payload bad.elf REJECTED: unverified_placeholder
+2026-10-13 19:57:29 WARNING main: HTTP port 8080 unavailable (in_use on loopback ([WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted) - change the port in config/settings.json); free it or change settings.json http.port - a common occupant on Windows is Steam's webhelper on 127.0.0.1:8080
+2026-10-13 19:57:29 INFO    netsvc: wildcard DNS listening on UDP :53 -> 192.168.1.223
+2026-10-13 19:57:29 INFO    main: HTTP host: http://192.168.1.223:8080  (wildcard DNS -> 192.168.1.223)
+2026-10-13 19:57:29 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:8080, press RUN
+2026-10-13 19:58:42 WARNING main: HTTP port 8080 unavailable (in_use on loopback ([WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted) - change the port in config/settings.json); free it or change settings.json http.port - a common occupant on Windows is Steam's webhelper on 127.0.0.1:8080
+2026-10-13 19:58:42 INFO    netsvc: wildcard DNS listening on UDP :53 -> 192.168.1.223
+2026-10-13 19:58:42 INFO    main: HTTP host: http://192.168.1.223:8080  (wildcard DNS -> 192.168.1.223)
+2026-10-13 19:58:42 INFO    main: Console steps: set PS5 DNS to 192.168.1.223, open browser to http://192.168.1.223:8080, press RUN

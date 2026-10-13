@@ -1,0 +1,2 @@
+toolchain: docker=0 ps5-clang=0 sdk_image_cached=0
+[BUILD-ERROR] Neither ps5-clang (set PS5_PAYLOAD_SDK) nor docker with ghcr.io/ps5-payload-dev/sdk is available. Install one of: https://github.com/ps5-payload-dev/sdk

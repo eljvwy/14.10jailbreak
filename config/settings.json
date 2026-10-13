@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "http": {
+    "port": 8080
+  },
+  "dns": {
+    "port": 53
+  },
+  "security": {
+    "allow_experimental_chains": false,
+    "allow_placeholder_payloads": false,
+    "dns_wide_open": false,
+    "bind_interface": "0.0.0.0"
+  },
+  "bootstrap_loader": {
+    "port": 9020
+  },
+  "elfldr": {
+    "port": 9021
+  },
+  "ftp": {
+    "port": 2121
+  },
+  "ftp_alt": {
+    "port": 1337
+  },
+  "bdj": {
+    "port": 50000
+  },
+  "discovery": {
+    "reprobe_seconds": 3,
+    "probe_timeout_seconds": 1.5,
+    "ssdp_timeout_seconds": 3.0,
+    "mdns_timeout_seconds": 5.0,
+    "arp_fallback": true
+  },
+  "chain": {
+    "userland_max_attempts": 5,
+    "userland_stage_timeout_seconds": 45,
+    "kernel_watchdog_seconds": 60,
+    "kernel_stage_order": [
+      "relapse_kernel",
+      "umtx_kernel"
+    ],
+    "payload_retries": 3,
+    "backoff_base_seconds": 2.0,
+    "backoff_factor": 2.0,
+    "payloads_in_order": [
+      "kstuff.elf",
+      "ShadowMountPlus.elf",
+      "etaHEN.elf",
+      "notify.elf",
+      "ftpsrv.elf"
+    ],
+    "delivery_mode": "http",
+    "notify_success": "succsecfull jailbrea",
+    "notify_failure": "failed jailbrea",
+    "status_file": "/data/TEST14.10_status.txt",
+    "homebrew_dir": "/data/homebrew/TEST14.10"
+  },
+  "console_app": {
+    "name": "TEST14.10",
+    "local_dir": "assets/homebrew/TEST14.10",
+    "ship_icon": false
+  },
+  "paths": {
+    "exploit_dir": "assets/exploit",
+    "payload_dir": "assets/payloads",
+    "log_file": "logs/ps5jb.log"
+  }
+}
